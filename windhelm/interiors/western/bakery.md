@@ -1,7 +1,7 @@
 # Windhelm Bakery
 
-![Bakery Alt Text](/windhelm/pics/bakery1.png?raw=true "Bakery1")
-![Bakery Alt Text](/windhelm/pics/bakery2.png?raw=true "Bakery2")
+![Map of expanded market. Bakery is the door to the top-left.](/windhelm/pics/bakery1.png?raw=true "Market Map")
+![View of bakery door from Hillevi's stall](/windhelm/pics/bakery2.png?raw=true "Bakery Door")
 
 In the expanded portion of the market square, there is now a new door which I think could be a bakery shop. Right outside the door is where Hillevi Cruel-Sea's produce stall has been relocated to (in order to "fill up" the new western portion of the market square). Food themes go together, so a bakery seems fitting.
 
