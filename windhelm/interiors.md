@@ -12,7 +12,7 @@ Therefore, I have spent my time and work on fleshing out Epic Windhelm Expansion
 
 If you're interested in helping in the effort and make an addon for it, this means you can keep the scope of your work as large or as small as you like. Maybe you only want to add 1 NPC to live in one of the tiny apartments with a simple daily schedule and nothing else - that's easily doable as an addon. Maybe you want to build out the entire Northeast Castle's interior with many NPCs capable of complex dialogue, relationships, and quest content - that's also easily doable as an addon. Hopefully, this flexibility and freedom lowers the barrier for interested folks to participate.
 
-My "infrastructure-y" work should also isolate additional work in the Windhelm worldspace and any interior work, for as long as you don't change the "infrastructure-y" stuff. This means you can totally create an addon that decorates an area of the city with clutter, if that's what you're interested in.
+My "infrastructure-y" work should also isolate any further additional work in the Windhelm worldspace from addon content, for as long as addons only adds onto but don't fundamentally change the "infrastructure-y" stuff. This means there's also nothing preventing you from creating an addon that simply decorates an area of the city with clutter, if that's what you are interested in. The only requirements should be a few simple guidelines that shouldn't limit what you can do artistically. For details, please read the next section.
 
 I also thought that keeping content modular within the expansion like this, would also allow players to pick and choose which addon they like or don't like, which might also be a bonus.
 
