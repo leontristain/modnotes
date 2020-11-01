@@ -69,57 +69,12 @@ Vanilla Windhelm's western walls has been repurposed into the High Road - a broa
 
 The following are available interiors for the Western District.
 
-#### Meadhall
-
-The Meadhall is a building located on the other side of the bridge from the market square. If you ate your bread and produce from the Bakery and Hillevi's stand, you could simply turn the corner and be at the Meadhall for feasts and drink. You won't miss it. It's got enormous barrels of mead right outside the door.
-
-My first thought for this building is that, well it's gotta be a pub, right? The Western District is far away from Candlehearth Hall, so it would be nice if residents didn't have to trek so far in the middle of the night for their pints. The Meadhall would serve as the western pub of the city, in comparison to Candlehearth being the center pub, and New Gnisis Cornerclub being the eastern one.
-
-My second thought for this building is that perhaps it could also serve as the home base for a traditional adventurer's guild in RPGs. The pub would serve customers but also register adventurers into the guild and manage quests and bounties. More radiant quests is always a good thing, why not find a way to add more?
-
-Another idea is for the Meadhall to be a pub-meadery hybrid. It's functionally a pub/adventurer's guild hybrid, but the family/company behind the Meadhall are also mead producers that competes with Black-Briar and Honningbrew. Perhaps they don't have as much market share so it's more of a very local specialty. Overall I imagine it would make a lot of sense for the hardy folks of Windhelm to have some alcohol to call their own.
-
-Another interesting thought is, why are they leaving out huge barrels of mead outside in the snowy winter? Wouldn't it freeze? Isn't that bad for the mead? Being someone with very little knowledge of alcohol culture, this bothered me, so I looked it up. Apparently freeze-distillation of mead is a real thing and it results in a stronger mead called "honeyjack". Now I don't know how practical it is to do it in gigantic barrels, but meh, the barrels look cool and epic, and we can think of some handwavey explanations to remain lore-friendly.
-
-#### Meadhall Apartments 01, 02, 03
-
-On the backside of the Meadhall building, we have 3 doors. These to me says "apartments". They likely lead to fairly modest-sized living spaces that are each rather thin and short but maybe have 2 levels in a loft-like arrangement.
-
-Folks living here probably don't have a lot of means or prefer the simple life. You exchange space and luxuries for convenience of living right next to the pub, the temple, the shops, and the bathhouse down the street, and within easy walking distance to the market. You don't have much, but the neighborhood is safe and lively and you rather enjoy that.
-
-#### Western District Residences 01, 02, 03, 04
-
-Surrounding the meadhall are other Western District buildings containing 3 doors that lead into interiors. Doors 01, 02, and 03 are right in the same alleyway as the Meadhall Apartments, whereas Doors 04 is on the other side rather out of the way, where it faces Windswept Manor and is close to the staircase up to Windhelm's Beacon.
-
-I can see doors 01, 02, and 03 being either homes or shops. Shops probably make a lot of sense - there's enough room to display your wares, and this alley should get plenty of foot traffic. Maybe you're a tailor who sells clothes. Maybe you're an apothecary who sells medicine. Your first floor would be your storefront, while you live on the second floor.
-
-Door 04, which leads into a Brunwulf-style house, is a bit different. It's very out of the way, making it one of the most remote houses in Windhelm. The person who decides to live here is probably more of an introvert who prefers a more peaceful, solitary existence. Perhaps this could be the home to the maintainer for the beacon, where every day on a set schedule he would climb the stairs up high to refuel the beacon, and that's his role in life. Door 04's proximity to Windswept Manor also means the person living there would probably go into the Windswept Manor Commons for food and socializing more often than the Meadhall.
-
-#### Western District Temple
-
-Across from the Meadhall Apartments, and adjacent to the High Road, is the massive, towering structure of the Western District Temple. This temple is one of the icons of this part of the city, being itself taller than many buildings across the city to its east.
-
-This building is the same structure as the Temple of Talos, just without the back portion that goes above Hall of the Dead, which actually makes it technically smaller, despite its location and elevation making it look more massive and epic. It has 2 doors, a front door that faces south, and a back door that faces north.
-
-Folks have suggested what kind of temple this could be. I've heard that it is good for it to be a temple to Kyne/Kynareth, for she is the origin of the Thu'um and the mother of the Nords, who, since the death of Shor, is considered the chief diety of the Nord Pantheon. Within such a temple, it may make sense to have smaller shrine rooms to Shor and perhaps also to Mara, Kyne's handmaiden.
-
-Another idea brought up by folks is that it could be a temple to the entire Nordic Pantheon, that highlights Windhelm's Stormcloak position by having it worship all nine divines in contrast to Solitude's Temple of the Divines. This could be a counter-pilgrimage site, and the divines could be addressed by old Nordic Pantheon names. Perhaps Ulfric made this happen to forge a new nationalistic identity (or, the equivalent of propaganda, if you spin it negatively).
-
-#### Windhelm Bathhouse
-
-At the bottom of a cozy alley opposite of the temple, sort of "built into the mountains" is the Windhelm Bathhouse. This alley is normally quiet, and in the midst of winter, could be quite cold. But all that would contrast with the warmth offered by the bathhouse, which could have steam coming out of pipes nearby that evaporates into the air above.
-
-The "building" the door belongs on is in reality more of a facade, for directly behind it is the mountain itself. Thus, the interiors are actually hollowed-out caves that have been engineered into a bathhouse, though with nicely finished interiors, you may not be able to see traces of it other than the lack of windows on the inside.
-
-Located where it is, imagine folks coming out of the Meadhall walking down the alley and into the bathhouse for a nice warm bath, before heading back to their residences and apartments to retire for the night. Though located in the Western District, it's not far from the Northern District, and Valunstrad is just on the other side of the High Road as well.
-
-#### Western Fort
-
-At the western end of the southern walls is the Western Fort. This defensive structure marks the westernmost point of the City of Windhelm, and serves as the stronghold that anchors the wall into the mountain.
-
-The main entrance of the fort goes right onto the western wall. Additionally its rooftop is also accessible. From there, soldiers can keep watch on any potential enemies coming from the direction of Anga's Mill, as well as any shenanigans that may happen on the westward road.
-
-With the wallwalks, there should be a lot of soldiers on patrol all the time. These soldiers need to sleep somewhere, which would likely be the various forts, keeps, and storehouses along the walls. The Western Fort is the largest wall structure, so its interiors would probably house a lot of beds and living quarters for wall soldiers. Perhaps there could be a prominent guard captain in charge of the southern walls, and this captain would have his or her own captain's quarters in the fort.
+* [Meadhall](/windhelm/interiors/western/meadhall.md)
+* [Meadhall Apartments 01-03](/windhelm/interiors/western/apartments.md)
+* [Western District Residences 01-04](/windhelm/interiors/western/residences.md)
+* [Western District Temple](/windhelm/interiors/western/temple.md)
+* [Windhelm Bathhouse](/windhelm/interiors/western/bathhouse.md)
+* [Western Fort](/windhelm/interiors/western/fort.md)
 
 ### Windswept Manor
 
