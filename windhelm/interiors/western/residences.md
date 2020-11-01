@@ -4,7 +4,7 @@
 ![](/windhelm/pics/westernresidence3.png?raw=true "Residences 03")
 ![](/windhelm/pics/westernresidence4.png?raw=true "Residences 04")
 
-Surrounding the meadhall are other Western District buildings containing 3 doors that lead into interiors. Doors 01, 02, and 03 are right in the same alleyway as the Meadhall Apartments, whereas Doors 04 is on the other side rather out of the way, where it faces Windswept Manor and is close to the staircase up to Windhelm's Beacon.
+Surrounding the meadhall are other Western District buildings containing 4 doors that lead into interiors. Doors 01, 02, and 03 are right in the same alleyway as the Meadhall Apartments, whereas Doors 04 is on the other side rather out of the way, where it faces Windswept Manor and is close to the staircase up to Windhelm's Beacon.
 
 I can see doors 01, 02, and 03 being either homes or shops. Shops probably make a lot of sense - there's enough room to display your wares, and this alley should get plenty of foot traffic. Maybe you're a tailor who sells clothes. Maybe you're an apothecary who sells medicine. Your first floor would be your storefront, while you live on the second floor.
 
