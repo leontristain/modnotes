@@ -1,5 +1,8 @@
 # Mountain Caves
 
+![](/windhelm/pics/mountaingate.png?raw=true "Mountain Gate")
+![](/windhelm/pics/beacon.png?raw=true "Mountain caves connects to door near beacon.png?raw=true "Windhelm Bank")
+
 On the northwest edge of Windhelm where it touches the mountain, there exists a large, epic gate that leads into the mountain.
 
 I see this as the entrance for a large, open, cavernous interior that is to Windhelm as the Glittering Caves is to Helm's Deep. Perhaps there could be more people and communities living within, or perhaps it could largely be just patroled by soldiers. These caves should be easily defended from Windhelm's side, yet also connect to various other parts of Tamriel so that it may be used as an escape route should Windhelm ever be helplessly besieged. Perhaps parts of the caves even lead further down into vile, dangerous places that few have explored (is Blackreach too much of a stretch?).

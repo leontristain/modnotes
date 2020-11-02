@@ -1,5 +1,7 @@
 # Stonemasonry Guild
 
+![](/windhelm/pics/stonemasonry.png?raw=true "Stonemasonry Guild")
+
 The massive wood-and-stone house next to the bank is the Stonemasonry Guild. That's my idea anyway, and again you don't have to go with what I'm thinking on any of these buildings - feel free to do whatever you like.
 
 I thought of the stonemasonry guild when I saw that there are existing NPCs that simply walks over to various windows and hammer them as their day jobs. With all the new expanded space, there is a need to keep all the roads populated with pedestrians to keep things lively.
