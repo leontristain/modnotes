@@ -4,6 +4,7 @@
 ![](/windhelm/pics/docksidekeep2.png?raw=true "Dockside Keep bottom entrance")
 ![](/windhelm/pics/docksidekeep3.png?raw=true "Dockside Keep main entrance")
 ![](/windhelm/pics/docksidekeep4.png?raw=true "Dockside Keep balconies and roof")
+![](/windhelm/pics/docksidekeep5.png?raw=true "Dockside Keep from Gray Quarters direction")
 
 The restored walls also restored the large flat roof of the Windhelm Docks building that houses the East Empire Company. Here, I added a keep, because it makes sense for the docks - and this part of the walls in general - to have some kind of defensive structure. It may also make sense if we put a lighthouse at the top of the keep (though that has yet to happen).
 
