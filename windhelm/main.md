@@ -51,4 +51,4 @@ If you want to familiarize yourself with what structures and doors are available
 
 The NexusMods comments page for the base mod is also a great place to read past conversations and have discussions with other interested folks.
 
-If you decide to work on something, I would love to be in the loop so that I know what's happening with the overall project. Again, you have full creative control and zero pressure. If you don't feel committed enough to want to announce your work, I can understand that, but if you feel that you're able and willing, please tell me and keep me in the loop.
+If you decide to work on something, I would love to be in the loop so that I know what's happening with the overall project. Again, you have full creative control and zero pressure. If you don't feel committed enough to want to announce your work, I can understand that, but if you feel that you're able and willing, then it would be great if you could keep me in the loop.
