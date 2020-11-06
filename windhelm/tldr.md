@@ -66,7 +66,7 @@ The Northeast Gatehouse in all its glory.
 
 ![](/windhelm/pics/northeastgatehouse.png?raw=true "Northern District Mansion")
 
-The Northeast Castle
+The Northeast Castle with a pub built into its side.
 
 ![](/windhelm/pics/northeastcastle1.png?raw=true "Northern District Mansion")
 
