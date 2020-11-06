@@ -97,7 +97,7 @@ Vanilla Windhelm has a lot of things that were basically broken, such as:
 
 None of them are noticeable if you play a purely vanilla game and view things from purely vanilla view angles. However the moment you start flying (or in the case for this mod, walking along the wallwalks/new districts), you'll see and experience them.
 
-Thus, this mod fixes them up. This means the visuals should be wholesome from wherever inside the city. Objects outside the city walls will still be lacking in detail and fairly primitive, but at least the landscape will be smooth and the large structures will be there, which provide a good illusion of what it actually looks like on the outside.
+Thus, this mod fixes them up. This means the visuals should be wholesome from wherever inside the city. Objects outside the city walls will still be lacking in detail and fairly primitive, but at least the landscape will be smooth and the large structures will be there, which provide a good illusion of what outside actually looks like.
 
 In the Tamriel worldspace, new standin structures (walls, towers, etc...) were added to ensure the Windhelm city look more or less the same outside as it does inside. For technical reasons, they won't look 100% the same, but unless you squint your eyes and look for it, you probably won't notice.
 
@@ -113,4 +113,4 @@ These were entirely dealt with using NAVCUT boxes, which means other than the ne
 
 Areas directly outside the southern walls and dock gate were left alone, in order to minimize compatibility issues with exterior expansion mods such as Windhelm Bridge Overhaul, Windhelm Exterior Altered, and Windhelm Dock Pathways. I am not aware of any exterior expansion mods that put things on the west side and northeast side of the city, and thus those are the only directions I expanded the city towards.
 
-In the Windhelm worldspace, vanilla areas are largely left alone, with the exception of a few places that transition from vanilla area to newly-expanded areas. This should make it so that mods like JK's/Dawn of Skyrim should not have severe conflicts that are not easily resolvable in a patch.
+In the Windhelm worldspace, vanilla areas are largely left alone, with the exception of a few places that transition from vanilla area to newly-expanded areas. This should make it so that mods that try to beautify/clutterfy vanilla areas, such as JK's Skyrim/Dawn of Skyrim, should not have severe conflicts that are not easily resolvable in a patch.
