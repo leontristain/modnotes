@@ -39,7 +39,7 @@ Going forward, I plan to gradually work on the base platform content. The most c
 
 Once the base platform is more or less "final", I will then prioritize on creating patches with other mods like JK's, DoS, and exterior expansion mods such as Windhelm Exterior Altered and Windhelm Docks Pathways (assuming others don't get there first). As long as addon authors follow [my guidelines](/windhelm/guidelines.md), these patches theoretically should be independent of addon mods so that addons don't need further patches of their own. Once patches are complete, I would then prioritize my time on filling in content that other addon authors have not chosen to work on. I will release my own work as addons as well.
 
-# Are You Interested In Helping?
+## Are You Interested In Helping?
 
 As an addon author, you have full creative control over what you build. Despite that I've already "named" many buildings and landmarks in my pictures and wiki pages here, the truth is really that nothing is set in stone. For example, there is nothing preventing anyone from taking the "Windhelm Bathhouse" structure, and build it out as a school or a hideout, or something else.
 
