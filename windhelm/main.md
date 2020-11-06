@@ -8,7 +8,7 @@
 
 * Expands Windhelm's city presence in the west, north, and northeast directions, resulting in 3 entirely new city districts.
 
-* Restores and make accessible the wallwalks of Windhelm, turning them into a new transportation network to be used by player and NPCs.
+* Restores and make accessible the wallwalks of Windhelm, turning them into a new road network to be used by player and NPCs.
 
 * Repairs many problems of the Windhelm worldspace, such as missing/hidden terrains, missing standins for large external objects like the Windhelm Bridge, and the various imperfections in vanilla Gray Quarters buildings when viewed from nonstandard angles, making it so that Windhelm will look whole and complete no matter where you are.
 
