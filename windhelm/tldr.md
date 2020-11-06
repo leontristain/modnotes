@@ -26,7 +26,7 @@ In the new districts, the mod adds a lot of new buildings, landmarks, points of 
 
 ## Beautiful Visuals
 
-I tried to make the expanded city look very beautifully epic, and I think I'm pretty proud of what I ended up with. The following are a few screenshots hand-picked for their postcard-worthy prettiness.
+I tried to make the expanded city look beautiful and epic, and I think I like what I ended up with. The following are a few screenshots hand-picked for their postcard-worthy prettiness. All photos are taken with Silent Horizons ENB for Cathedral Weathers, NobleSkyrim textures, Majestic Mountains, and Fluffy Snow.
 
 First and foremost, we have this epically long Southern Wallwalk.
 
@@ -40,11 +40,11 @@ You also get some of these cozy alleyways, like the alleyway just outside the ne
 
 ![](/windhelm/pics/bathhouse2.png?raw=true "Alleyway Outside Windhelm Bathhouse")
 
-The top suite of the Windswept Manor building is intended to be a player home, and it's got the following killer balcony view.
+The top suite of the Windswept Manor building is intended to be a player home, and it's got a killer balcony view.
 
 ![](/windhelm/pics/windsweptsuitebalconyview.png?raw=true "View from Windswept Manor Balcony")
 
-As evening falls and windows become noticeably lit, here's a photo of the Western District's High Road looking northward showing the city in all its majesty, and the burning Beacon of Windhelm on the cliffs above.
+As evening falls and windows become noticeably lit, here's a photo of the Western District's High Road looking northward showing the city in all its majesty, note the Beacon of Windhelm on the cliffs above.
 
 ![](/windhelm/pics/highroadevening.png?raw=true "Evening High Road and Beacon of Windhelm")
 
@@ -56,7 +56,7 @@ The mansion in the Northern District, complete with its stone arch entrance.
 
 ![](/windhelm/pics/mansion1.png?raw=true "Northern District Mansion")
 
-A courtyard just inside the gates, located in the Northeast District, with stairs that ascend up into the Eastern Tower.
+A courtyard just inside the gates, located in the Northeast District, with stairs on the far side that ascends up into the Eastern Tower.
 
 ![](/windhelm/pics/northeasttempleback.png?raw=true "Northern District Mansion")
 
