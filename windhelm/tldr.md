@@ -22,5 +22,5 @@ The expansion expands Windhelm towards its west, north, and northeast directions
 
 In the new districts, the mod adds a lot of new buildings, landmarks, points of interests, and doors to interiors, as shown by the following pic.
 
-![](/windhelm/pics/overview-newdistricts.png?raw=true "New Buildings, Landmarks, and Doors")
+![](/windhelm/pics/overview-buildingsanddoors.png?raw=true "New Buildings, Landmarks, and Doors")
 
