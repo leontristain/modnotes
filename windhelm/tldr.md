@@ -16,7 +16,7 @@ More importantly, the wallwalks of Windhelm form into a very nice road network w
 
 ![](/windhelm/pics/overview-wallwalknetwork.png?raw=true "Wallwalk Road Network")
 
-The expansion expands Windhelm in the west, north, and northeast directions, with the wallwalks nicely partitioning out 3 new districts. The expansion also restores the Windhelm Arena structure, expands the size of the market square by a bit, and adds a number of structures to the Gray Quarters wallwalk level. All of these are shown by the following pic.
+The expansion expands Windhelm towards its west, north, and northeast directions, with the wallwalks nicely partitioning out 3 new districts. The expansion also restores the Windhelm Arena structure, expands the size of the market square by a bit, and adds a number of structures to the Gray Quarters wallwalk level. All of these are shown by the following pic.
 
 ![](/windhelm/pics/overview-newdistricts.png?raw=true "New Districts")
 
