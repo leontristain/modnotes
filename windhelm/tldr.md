@@ -12,7 +12,7 @@ It makes Windhelm a lot bigger. How much bigger? Check it out.
 
 In the expanded Windhelm, the wallwalks are now accessible. You can now climb up to the walls and dramatically gaze into the distance, perhaps with your HDT cloak fluttering in the wind.
 
-More importantly, the wallwalks of Windhelm form into a very nice road network. Check out the map.
+More importantly, the wallwalks of Windhelm form into a very nice road network which you can see here:
 
 ![](/windhelm/pics/overview-wallwalknetwork.png?raw=true "Wallwalk Road Network")
 
