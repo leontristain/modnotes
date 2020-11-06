@@ -4,7 +4,7 @@
 
 ## Overview and TLDR
 
-**Epic Windhelm Expansion Base** is my attempt at a Windhelm Expansion mod for Skyrim Special Edition. As far as I know, in concept this is the largest and most "expansive" city expansion mod for Windhelm that has ever been attempted. Without going into fine detail, the mod aims to accomplish the following:
+**Epic Windhelm Expansion Base** is my attempt at a Windhelm Expansion mod for Skyrim Special Edition. As far as I know, in concept this is the largest and most "expansive" city expansion mod for Windhelm that has ever been attempted.
 
 * Expands Windhelm's city presence in the west, north, and northeast directions, resulting in 3 entirely new city districts.
 
