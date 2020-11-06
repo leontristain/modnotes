@@ -16,7 +16,7 @@
 
 * Implemented in ways that minimize compatibility concerns and maximize potential for further exterior expansions.
 
-For a quick, basic walk-through of mod details (with lots of pretty pictures), please read [this document](/windhelm/tldr.md).
+For a quick, basic walk-through of mod details (with lots of pretty pictures), please read [this overview](/windhelm/tldr.md).
 
 ## Why Is It A "Base"?
 
