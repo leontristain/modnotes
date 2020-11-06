@@ -80,7 +80,7 @@ Looking across Northeast District after the falling of fresh snow.
 
 ![](/windhelm/pics/northeastdistrictroadview.png?raw=true "Northeast District, Fresh Snow")
 
-View of Palace of the Kings from the some stairs that leads up to the arena.
+View of Palace of the Kings from the stairs that leads up to the arena.
 
 ![](/windhelm/pics/northeaststairpalaceview.png?raw=true "Palace of the Kings view from arena stairs")
 
