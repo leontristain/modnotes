@@ -4,11 +4,11 @@ This is a document that lets you know what you get with this mod.
 
 ## The Big Picture
 
-This mod is an City Expansion mod for Windhelm.
+This mod is an City Expansion mod for Windhelm. The overall expansion looks like this:
 
 ![](/windhelm/pics/overview.png?raw=true "Raw Overview")
 
-It makes Windhelm a lot bigger. How much bigger? Check it out.
+That's a lot bigger than vanilla Windhelm. Exactly how much bigger? Check it out.
 
 ![](/windhelm/pics/overview-vanillacomparison.png?raw=true "Expanded Windhelm Size vs Vanilla Windhelm Size")
 
