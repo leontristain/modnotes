@@ -31,7 +31,7 @@ The obvious solution to the above, which people kept on telling me, is to ask fo
 Therefore, I am asking for folks to help. I am doing this in two ways. The first is obvious but the second is the thing that I'll be focusing on.
 
 1. All my permissions are completely open, so at the very basic level, anyone can "fork" my mod whenever and however they like.
-2. I will continue working on my mod as a "base" mod, turning it into a robust base platform upon which other mod authors could create modular addons without needing to worry about compatibility. This means folks are free to contribute a small, isolated thing (such as a single interior with an NPC) and have it seamlessly integrate into the base mod together with any other such addon from others.
+2. I will continue working on my mod as a "base" mod, turning it into a robust base platform upon which other mod authors could create modular addons without needing to worry about compatibility. This means folks are free to contribute self-contained content of any size or complexity, and have it seamlessly integrate into the base mod together with any other such addon from others, for as long as they follow [these guidelines](/windhelm/guidelines.md).
 
 My "[base platform](/windhelm/base.md)" will have the responsibility to maintain a single vision for where major buildings are placed and where roads go, so that it can authoritatively provide the navmesh and door links for it. [Addon](/windhelm/addons.md) authors could then follow [these guidelines](/windhelm/guidelines.md) when building out interiors, adding NPCs, schedules, markers, clutter, and quest stuff, and we end up in a world where addons don't conflict between each other and the user can easily mix and match them.
 
