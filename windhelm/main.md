@@ -28,7 +28,7 @@ By the end of it, I got a lot done. However, there were lots more to do still. V
 
 The obvious solution to the above, which people kept on telling me, is to ask for help from the community. We have many very talented people in the community who could be interested in contributing to this project. We also have many examples in the past where we eventually got great mods due to people picking up and improving previous work from others. An example is Complete Solitude, which led to TRUE CITY - The Great Expansion of Solitude, which led to Solitude Reborn, which finally led to Enhanced Solitude - our most epic Solitude Expansion mod today.
 
-Therefore, I am asking for folks to help. I am doing this in two ways.
+Therefore, I am asking for folks to help. I am doing this in two ways. The first is obvious but the second is the thing that I'll be focusing on.
 
 1. All my permissions are completely open, so at the very basic level, anyone can "fork" my mod however they want.
 2. I will continue working on my mod as a "base" mod, turning it into a robust base platform upon which other mod authors could create modular addons without needing to worry about compatibility. This means folks are free to contribute a small, isolated thing (such as a single interior with an NPC) and have it seamlessly integrate into the base mod together with any other such addon from others.
