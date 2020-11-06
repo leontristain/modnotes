@@ -38,3 +38,17 @@ My "[base platform](/windhelm/base.md)" will have the responsibility to maintain
 Going forward, I plan to gradually work on the base platform content. The most crucial elements of the base platform are already done, but quality can be improved and many things can still be tweaked. As I work on base platform content, I will maintain a presence on the NexusMods page to communicate with addon authors and other interested folks and update the base platform accordingly.
 
 Once the base platform is more or less "final", I will then prioritize on creating patches with other mods like JK's, DoS, and exterior expansion mods such as Windhelm Exterior Altered and Windhelm Docks Pathways (assuming others don't get there first). As long as addon authors follow [my guidelines](/windhelm/guidelines.md), these patches theoretically should be independent of addon mods so that addons don't need further patches of their own. Once patches are complete, I would then prioritize my time on filling in content that other addon authors have not chosen to work on. I will release my own work as addons as well.
+
+# Are You Interested In Helping?
+
+As an addon author, you have full creative control over what you build. Despite that I've already "named" many buildings and landmarks in my pictures and wiki pages here, the truth is really that nothing is set in stone. For example, there is nothing preventing anyone from taking the "Windhelm Bathhouse" structure, and build it out as a school or a hideout, or something else.
+
+You are also free to have purely additive changes to the Windhelm worldspace content, so adding clutter outside, adding markers for NPC daily schedule, adding patrol routes for guards, etc... can all be done.
+
+All I ask is you follow [these guidelines](/windhelm/guidelines.md) so that we maintain modularity and minimize/eliminate potential conflicts.
+
+If you want to familiarize yourself with what structures and doors are available in the base mod, [This page](/windhelm/details.md) is the starting point to browse detailed information of the expanded areas. In individual pages about each building, I have detailed descriptions of what it is, how it works, and my thoughts and other people's thoughts for what it could be.
+
+The NexusMods comments page for the base mod is also a great place to read past conversations and have discussions with other interested folks.
+
+If you decide to work on something, I would love to be in the loop so that I know what's happening with the overall project. Again, you have full creative control and zero pressure. If you don't feel committed enough to want to announce your work, I can understand that, but if you feel that you're able and willing, please tell me and keep me in the loop.
