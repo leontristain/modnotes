@@ -84,3 +84,31 @@ View of Palace of the Kings from the stairs that leads up to the arena.
 
 ![](/windhelm/pics/northeaststairpalaceview.png?raw=true "Palace of the Kings view from arena stairs")
 
+## Quality and Vanilla Fixups
+
+Vanilla Windhelm has a lot of things that were basically broken, such as:
+
+* Lots of landscapes disabled or missing in cells too close to be covered by LODs.
+* A complete lack of standins for structures outside the city that are too close to be covered by LODs, such as the Windhelm Bridge and nearby farmhouses.
+* Occlusion boxes for certain buildings set too high, resulting in objects popping in and out of view when you walk close to the building's roof in certain angles.
+* Lots of vanilla building nifs, mostly in the Gray Quarters, having huge, gaping holes that show obvious empty interiors when viewed from above.
+
+None of them are noticeable if you play a purely vanilla game and view things from purely vanilla view angles. However the moment you start flying (or in the case for this mod, walking along the wallwalks/new districts), you'll see and experience them.
+
+Thus, this mod fixes them up. This means the visuals should be wholesome from wherever inside the city. Objects outside the city walls will still be lacking in detail and fairly primitive, but at least the landscape will be smooth and the large structures will be there, which provide a good illusion of what it actually looks like on the outside.
+
+In the Tamriel worldspace, new standin structures (walls, towers, etc...) were added to ensure the Windhelm city look more or less the same outside as it does inside. For technical reasons, they won't look 100% the same, but unless you squint your eyes and look for it, you probably won't notice.
+
+Additional occlusion planes were added along the wall partitions to reduce Windhelm Worldspace draw calls and keep performance reasonable.
+
+## Navmesh and Compatibility
+
+The mod is fully navmeshed, with all doors linked to navmesh door triangles.
+
+In the Tamriel Worldspace, standin structures (walls, towers, etc...) have been added to make Windhelm look outside the same it looks inside. As a result, the newly expanded areas cover good portions of Tamriel exterior navmesh.
+
+These were entirely dealt with using NAVCUT boxes, which means other than the new northeast gate's door triangle, no navmesh records in the Tamriel worldspace were touched. Thus, this mod should play well with any other exterior expansion mod that does not directly conflict in object placement. Their navmesh changes should seamlessly combine with the NAVCUT boxes used in this mod, resulting in the best of both worlds, and keeping any need for patching as simple a problem as possible.
+
+Areas directly outside the southern walls and dock gate were left alone, in order to minimize compatibility issues with exterior expansion mods such as Windhelm Bridge Overhaul, Windhelm Exterior Altered, and Windhelm Dock Pathways. I am not aware of any exterior expansion mods that put things on the west side and northeast side of the city, and thus those are the only directions I expanded the city towards.
+
+In the Windhelm worldspace, vanilla areas are largely left alone, with the exception of a few places that transition from vanilla area to newly-expanded areas. This should make it so that mods like JK's/Dawn of Skyrim should not have severe conflicts that are not easily resolvable in a patch.
