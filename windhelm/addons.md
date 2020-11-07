@@ -10,7 +10,7 @@ You can do a lot of things in an addon mod. For example...
 
 ### A Small Scale Addon Mod
 
-If you are new to Skyrim mod creation and want to contribute something of very small scale, perhaps you can take one of the unfinished interiors in the base mod and build out an interior for it. Then, perhaps you can create an NPC to live in that house, and give the NPC a daily schedule.
+If you are new to Skyrim mod creation and want a beginner project, or you just in general don't want to commit too much time and effort, then you may want to do a small scale addon. For example, perhaps you can take one of the unfinished interiors in the base mod and build out an interior for it. Then, perhaps you can create an NPC to live in that house, and give the NPC a daily schedule. That would be it. Nothing more than that.
 
 With small scale addon mods, it's possible that your addon could be an ESL-ified `.esp` file. If this can be done then it is highly encouraged since it would save the user an esp slot.
 
