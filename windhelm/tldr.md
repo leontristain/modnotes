@@ -1,6 +1,8 @@
 # Overview
 
-This is a document that lets you know what you get with this mod.
+This is a document that lets you know what you get with this mod, complete with lots of pretty pictures.
+
+For details of each area, please refer to [this document](/windhelm/details.md).
 
 ## The Big Picture
 
