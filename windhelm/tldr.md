@@ -4,6 +4,8 @@ This is a document that lets you know what you get with this mod, complete with 
 
 For details of each area, please refer to [this document](/windhelm/details.md).
 
+Also here are some complementary [anticipated future work](/windhelm/upcoming.md) that may come later as separate mods.
+
 ## The Big Picture
 
 This mod is an City Expansion mod for Windhelm. The overall expansion looks like this:
