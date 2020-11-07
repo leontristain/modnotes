@@ -4,7 +4,7 @@ If you want to help me with this Windhelm expansion mod effort, one way you can 
 
 Basically, you can start by using `EpicWindhelmBase.esp` as a master, and then develop your addon content as its own plugin. You would follow [these guidelines](/windhelm/guidelines.md) as you develop your addon content, so that your mod would not have incidental conflicts with any other addons.
 
-## What Can You Do With Addon Mods
+## What Can You Create As An Addon Mod?
 
 You can do a lot of things in an addon mod. For example...
 
