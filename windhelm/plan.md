@@ -48,6 +48,10 @@ If you are a contributor and you feel strongly about something "infrastructure-y
 
 Though I reserve my right to have final call on creative decisions in the "base mod", I could very well agree with your points or be convinced by your arguments. If I do, I will handle the work myself in the base mod.
 
+And if I don't personally agree, I will definitely at least hear you out, and give you my thoughts in detail, before letting you know that I won't be including it in the base mod.
+
+At that point, you're still free to create a traditional patch for my base mod to change it to your liking, or even fork my base mod. It's totally up to you. Though at that point, continuous maintenance, compatibility with addons, and updates, are also up to you.
+
 ## Concerns Regarding Dependencies Between Addons
 
 Some addons may naturally depend on other addons.
