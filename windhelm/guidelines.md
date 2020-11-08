@@ -85,7 +85,7 @@ It's important for you to not touch navmesh records themselves, since then I am 
 
 ### Overall, DO NOT TOUCH navmesh and exterior doors.
 
-Navmesh records are messy and complicated records, and they make compatibility patches a nightmare. To make navmesh conflicts as easy and simple to resolve as possible, the base mod has to take full responsibility of all the navmesh. Exterior doors are directly coupled with navmesh because the navmesh record contain door references, and the door record contain navmesh triangle references. Thus both need to be fully controlled by the base mod.
+Navmesh records are messy and complicated records, and they make compatibility patches a nightmare. To make navmesh conflicts as easy and simple to resolve as possible, the base mod has to take full responsibility of all the navmesh. Additionally, exterior doors are directly coupled with navmesh because the navmesh record contain door references, and the door record contain navmesh triangle references. Thus both need to be fully controlled by the base mod.
 
 As long as you don't touch exterior navmesh and doors, I can handle patching with mods like JK's in the base mod, and your addon should remain compatible without anything extra. There may still be a very small chance that perhaps some object you placed is not in a good location post-patch, but that's nothing that can't be addressed by simply choosing a better location that works for both worlds (see next guideline). If you touch navmesh, the need for more patches is inevitable.
 
