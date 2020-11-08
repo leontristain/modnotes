@@ -18,7 +18,7 @@ That's a lot bigger than vanilla Windhelm. Exactly how much bigger? Check it out
 
 In the expanded Windhelm, the wallwalks are now accessible. You can now climb up to the walls and dramatically gaze into the distance, perhaps with your HDT cloak fluttering in the wind.
 
-More importantly, the wallwalks of Windhelm form into a very nice road network which you can see here:
+More importantly, the wallwalks of Windhelm form into a very nice and functional road network. The wallwalk paths connect to all areas of the city, and is "grade separated" from the normal walkways on the ground floor. This gives the city a multi-layered feel, and helps address the common complaint that Windhelm's layout is "nonsensical" and easy to get lost in. Whenever you are lost, find your way onto the wallwalks, and you'll get a beautiful, high vantage point view of the city, with which you can reorient yourself.
 
 ![](/windhelm/pics/overview-wallwalknetwork.png?raw=true "Wallwalk Road Network")
 
