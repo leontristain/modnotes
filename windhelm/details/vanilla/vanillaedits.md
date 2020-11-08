@@ -18,7 +18,7 @@ All of these are shown in the below image.
 
 ![](/windhelm/pics/vanillaedit02.png?raw=true)
 
-The old vanilla western walls have been repurposed into the [High Road](/windhelm/details/western/highroad.md) - an elevated road that runs up through the middle of the city. In Valunstrad I added two sets of stairs to make access to the high road (and the other side) easy. THese are shown in the below two images.
+The old vanilla western walls have been repurposed into the [High Road](/windhelm/details/western/highroad.md) - an elevated road that runs up through the middle of the city. In Valunstrad I added two sets of stairs to make access to the high road (and the other side) easy. These are shown in the below two images.
 
 ![](/windhelm/pics/vanillaedit03.png?raw=true)
 ![](/windhelm/pics/vanillaedit04.png?raw=true)
