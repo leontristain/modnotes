@@ -6,8 +6,6 @@ The Western District ends as the Bathhouse alleyway ascend up to join up with th
 
 The Northern District is located on the hills behind Valunstrad adjacent to the Palace of the Kings, which makes it the highest elevation of Windhelm City. Despite this, at ground level you don't actually get an expansive view of the city, due to the size of Valunstrad houses. The mood here is more of an intimate, tucked in community in one of the safest parts of the city.
 
-The following are available interiors for the Northern District.
-
 * [Mountain Caves](/windhelm/details/northern/mountaincaves.md)
 * [Windhelm Bank](/windhelm/details/northern/bank.md)
 * [Stonemasonry Guild](/windhelm/details/northern/stonemasonryguild.md)

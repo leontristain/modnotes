@@ -8,8 +8,6 @@ Folks living in the Western District live among cozy alleyways and like to visit
 
 From Windswept Manor, one can climb up the steep steps up to the Beacon of Windhelm.
 
-The following are available buildings/doors/interiors for the Western District. [Windswept Manor](/windhelm/details/windswept/main.md) is not included since it has its own page.
-
 * [Meadhall](/windhelm/details/western/meadhall.md)
 * [Meadhall Apartments 01-03](/windhelm/details/western/apartments.md)
 * [Western District Residences 01-04](/windhelm/details/western/residences.md)

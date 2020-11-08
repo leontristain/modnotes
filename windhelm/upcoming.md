@@ -69,6 +69,10 @@ I've also learned that the author of [Capital Whiterun Edition](https://www.nexu
 
 The base mod needs an USSEP patch. If you see floating icicles around the Arena prison - those are some USSEP-added objects that can only be disabled or relocated in an USSEP patch.
 
+### Faction: Pit Fighter
+
+The base mod restores the arena structure but doesn't touch any playable content. Faction: Pit Fighter is the forefront mod that restores the arena quest content, so it would be nice to patch that in. I currently don't know how straightforward it would be to do that since I've never played through that mod myself, but it's definitely something to take a stab at.
+
 ### A Note On Open Cities Skyrim
 
 I do not plan to eventually work on an Open Cities patch.
