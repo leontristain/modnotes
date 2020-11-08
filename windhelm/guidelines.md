@@ -83,7 +83,7 @@ Of course, dropping a marker for NPC behavior, or adding some small object for a
 
 ### Please try to keep all your changes purely additive
 
-Please do not _move_ anything in the Tamriel worldspace. Instead, try to only add new objects.
+Please do not _move_ anything in the Windhelm worldspace. Instead, try to only add new objects.
 
 If you absolutely need to, it's probably okay to disable some objects, but try not to disable anything important, and only when absolutely necessary.
 
