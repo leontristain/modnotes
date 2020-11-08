@@ -72,7 +72,7 @@ If your addon does not fit into the limit of an ESPFE, and you feel strongly abo
 
 ## Concerns Regarding Overlapping Content
 
-Multiple addons that change the same thing obviously are not compatible with each other. This is not a problem because as separate, independent addons, each can have its own audience. In contrast, if contributor work is managed the typical way as a singular overall project with a single vision, then only one person's creative vision will be realized.
+Multiple addons that change the same thing obviously are not compatible with each other. This is not a problem because as separate, independent addons, each can have its own audience and users are free to pick and choose. In contrast, if contributor work is managed the typical way as a singular overall project with a single vision, then only one person's creative vision will be realized.
 
 Regarding "addon packs", while I will curate and release my own "addon pack" out of the addons we get, I will release it as a separate NexusMods mod so to not advertise it as "official". From my perspective, anyone can curate their own addon pack and release it, and any addon may be chosen by any addon pack to be included. Again, permission for your addon to be part of an addon pack is not required, but I do highly encourage it.
 
