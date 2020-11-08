@@ -76,4 +76,4 @@ Multiple addons that change the same thing obviously are not compatible with eac
 
 Regarding "addon packs", while I will curate and release my own "addon pack" out of the addons we get, I will release it as a separate NexusMods mod so to not advertise it as "official". From my perspective, anyone can curate their own addon pack and release it, and any addon may be chosen by any addon pack to be included. Again, permission for your addon to be part of an addon pack is not required, but I do highly encourage it.
 
-The user is also not required to use addon packs and can choose to merge their own addon pack, or simply install individual addons separately (if they've got the space in their modlist).
+The user is also not required to use addon packs and can choose to merge their own addon pack, or simply install individual addons separately (if they've got the plugin space in their load orders).
