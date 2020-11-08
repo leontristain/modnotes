@@ -37,6 +37,7 @@ Barring logistical issues (see [Concerns Regarding Dependencies Between Addons](
 * A small-scale addon mod that builds out a single interior as a merchant shop, complete with NPCs with a shop schedule.
 * A large-scale addon mod involving multiple related interiors, lots of NPCs, and large quests.
 * A small-scale mod that simply adds decor and clutter to various places around the city, making it look prettier.
+* A minimal mod that patches some other unrelated mod into the interiors of these buildings.
 
 Basically, you are free to work on anything. All I ask is that you follow [these guidelines](/windhelm/guidelines.md). I also encourage you to keep your addons modular and self-contained. For example, if you are implementing 2 interiors, see if you can organize the work into two separate addons, as that would be preferred. (related: see [Concerns Regarding Plugin Count](#concerns-regarding-plugin-count))
 
