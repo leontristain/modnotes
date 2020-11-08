@@ -81,7 +81,7 @@ It's very possible that you may want to add objects to the Windhelm worldspace t
 
 For cases like that, you can resolve the issue by using NAVCUT collision boxes. You can create collision boxes, set it to `L_NAVCUT` in the primitive tab, and then have it intersect the navmesh you want to cut. Once you do that, at any time the cell is loaded, the box will disable the intersected part of the navmesh at run time. This is a purely additive change, and it results in navmesh effects without an actual edit to the navmesh record.
 
-It's important for you to not touch navmesh, since then I am free to update the navmesh in the base mod and patch it with other mods like JK's without your addon being affected.
+It's important for you to not touch navmesh records themselves, since then I am free to update the navmesh in the base mod and patch it with other mods like JK's without your addon being affected.
 
 ### Overall, DO NOT TOUCH navmesh and exterior doors.
 
