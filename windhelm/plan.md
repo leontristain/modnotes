@@ -38,7 +38,7 @@ Barring logistical issues (see [Concerns Regarding Dependencies Between Addons](
 * A large-scale addon mod involving multiple related interiors, lots of NPCs, and large quests.
 * A small-scale mod that simply adds decor and clutter to various places around the city, making it look prettier.
 
-Basically, you are free to work on anything. All I ask is that you follow [these guidelines](/windhelm/guidelines.md). I also encourage you to keep your addons modular and self-contained. For example, if you are implementing 2 interiors, see if you can organize the work into two separate addons, as that would be preferred. (related: see below section on "Plugin Count Concerns")
+Basically, you are free to work on anything. All I ask is that you follow [these guidelines](/windhelm/guidelines.md). I also encourage you to keep your addons modular and self-contained. For example, if you are implementing 2 interiors, see if you can organize the work into two separate addons, as that would be preferred. (related: see [Concerns Regarding Plugin Count](#concerns-regarding-plugin-count))
 
 For interested folks, a good starting point is to read [the overview](/windhelm/tldr.md) and then browse through [what buildings are available](/windhelm/details.md), maybe one or two of them would spark your interest and enthusiasm. When you start, please feel free to let me know what you'll be taking a stab at, so that I am informed on the overall state of the community effort.
 
