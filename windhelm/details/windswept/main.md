@@ -9,6 +9,7 @@ As a result, though it looks like one house, the interior of Windswept Manor is 
 
 The following are available interiors for Windswept Manor.
 
+* [Windswept Manor Commons](/windhelm/details/windswept/commons.md)
 * [Windswept Manor Subdivisions 01-02](/windhelm/details/windswept/subdivision1-2.md)
 * [Windswept Manor Subdivisions 03-07](/windhelm/details/windswept/subdivision3-7.md)
 * [Windswept Manor Kitchen](/windhelm/details/windswept/kitchen.md)

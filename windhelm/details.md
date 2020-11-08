@@ -14,6 +14,7 @@
   * [Western Fort](/windhelm/details/western/fort.md)
 
 * [Windswept Manor](/windhelm/details/windswept/main.md)
+  * [Windswept Manor Commons](/windhelm/details/windswept/commons.md)
   * [Windswept Manor Subdivisions 01-02](/windhelm/details/windswept/subdivision1-2.md)
   * [Windswept Manor Subdivisions 03-07](/windhelm/details/windswept/subdivision3-7.md)
   * [Windswept Manor Kitchen](/windhelm/details/windswept/kitchen.md)
