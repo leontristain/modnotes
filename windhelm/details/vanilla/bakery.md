@@ -7,4 +7,4 @@ In the expanded portion of the market square, there is now a new door which I th
 
 Should it remain a bakery, it would likely be a bakery that bakes and sells a lot of hearty and filling bread for reasonable prices to make it beloved by Windhelm's commoners who need to work hard through the winter. It would let the smell of freshly baked bread spread thoughout the market square.
 
-Folks have said that this bakery shouldn't be a high class cake shop or pastry cafe, and I personally strongly agree.
+Folks have said that this bakery shouldn't be a high class cake shop or pastry cafe, and I personally agree.
