@@ -48,7 +48,7 @@ Since I am giving addon authors "free reign" in what they choose to work on, I a
 
 With a flexible "addon" ecosystem being attempted here, there is the concern that many addons may eat into the user's plugin count. This is expected to be mitigated in two ways:
 
-First, addon authors are encouraged to release ESPFE (ESL-ified ESPs) plugins whenever possible. ESPFEs have a limitation of 2048 new records, however 2048 is likely enough for small-sized addons. For some examples to compare against: Wares of Tamriel has ~800 records. Crossroads Inn has ~1000 records, Astronomer's Loft has ~700 records.
+First, addon authors are encouraged to release ESPFE (ESL-ified ESPs) plugins whenever possible. ESPFEs have a limitation of 2048 new records, however 2048 is likely enough for small-sized addons. For some examples to compare against: [Wares of Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/31519) has ~800 records. [Crossroads Inn](https://www.nexusmods.com/skyrimspecialedition/mods/1406) has ~1000 records, [Astronomer's Loft](https://www.nexusmods.com/skyrimspecialedition/mods/38059) has ~700 records.
 
 Second, the expected method for eventual "final form" of the Windhelm expansion involves merged "addon packs". See [How Contributions Will Be Managed]. Addon authors are expected to provide permissions for them to be curated into addon packs, in which case plugin count would become less of an issue.
 
