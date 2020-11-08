@@ -59,7 +59,7 @@ Anyway, at some point there will probably be a pass to address these. Until then
 
 I've been told that the author of [Fortified Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/40094) is working on a [Fortified Windhelm](https://www.nexusmods.com/skyrimspecialedition/images/84030) mod. This mod is not yet released but there are preview screenshots with really great looking battlements. When this mod is out I will be attempting a patch to see if we can get this mod's interior expansion and wallwalks but with that mod's battlements, gate, and bridge. Wouldn't that be amazing?
 
-I've also learned that the author of [Capital Whiterun Edition](https://www.nexusmods.com/skyrimspecialedition/mods/37982) is working on an interior expansion mod for Windhelm. This mod and that mod conflicts in concept so a direct patch may not be possible. However I am a huge fan of Surjamte's work with Whiterun and I'm sure the Windhelm version will come with many interiors, NPCs, and quests, and I wonder if at the very least I can create a patch that brings over some of the interiors, NPCs, and quests into my city layout and buildings as an addon.
+I've also learned that the author of [Capital Whiterun Edition](https://www.nexusmods.com/skyrimspecialedition/mods/37982) is working on an interior expansion mod for Windhelm. This mod and that mod conflicts in concept so a direct patch may not be possible. However I am a huge fan of Surjamte's work with Whiterun and I'm sure the Windhelm version will come with many high quality interiors, NPCs, and quests, and I wonder if at the very least I can create a patch that brings over some of the interiors, NPCs, and quests into my city layout and buildings as an addon.
 
 ### Others
 
