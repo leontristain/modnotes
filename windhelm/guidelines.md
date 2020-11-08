@@ -33,7 +33,11 @@ Second, the bathhouse addon is now usable without the apartment addon contents. 
 
 Suppose I want to "prettify" the Windhelm worldspace by adding clutter and decoration. Unless you're doing it for the whole city everywhere, a good way to go about it is probably to "own an area" and never go beyond that area.
 
-For example, I might choose to decorate ONLY the Southern Wallwalk, in which case I will thoroughly decorate the Southern Wallwalk, but leave other regions, like Western District's ground level, the Market square, etc... alone. That way, should another mod tries to only update the Western District's ground level, their decorations won't overlap with yours.
+For example, I might choose to decorate ONLY the Southern Wallwalk, in which case I will thoroughly decorate the Southern Wallwalk, but leave other regions, like Western District's ground level, the Market square, etc... alone.
+
+Now, if someone else also did the same thing but for the Western District's ground level, where they completely decorated the entirety of the Western District ground level but did not touch anything beyond its scope, then we end up with the great result where our addons do not overlap with each other, but together completely cover everything.
+
+Granted, what constitutes "an area" is kind of vague, so in the end it's your call, but you get what I mean.
 
 ### Please remember to add signs to the Windhelm Worldspace to match your content
 
