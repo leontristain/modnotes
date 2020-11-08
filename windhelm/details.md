@@ -1,6 +1,7 @@
 # Details Of Expanded Windhelm City
 
 * [Vanilla Areas](/windhelm/details/vanilla/main.md)
+  * [Notable Vanilla Area Edits](/windhelm/details/vanilla/vanillaedits.md)
   * [Windhelm Bakery](/windhelm/details/vanilla/bakery.md)
   * [Windhelm Blacksmith Quarters Attic](/windhelm/details/vanilla/blacksmithattic.md)
 
