@@ -50,11 +50,11 @@ Though I reserve my right to have final call on creative decisions in the "base 
 
 ## Concerns Regarding Dependencies Between Addons
 
-As far as building interiors go, there are natural dependency relationships where some buildings are more crucial than others.
+Some addons may naturally depend on other addons.
 
 For example, an addon that tries to build out an interior of one of the residences, and adds an NPC to live in it, may want the NPC to loiter around the market during the day, eat dinner at the [Meadhall](/windhelm/interiors/western/meadhall.md) in the evening, then head over to chill at the [Windhelm Bathhouse](/windhelm/interiors/western/bathhouse.md) for an hour, before heading home for the night. This addon would depend on a completed implementation of both the Meadhall and Bathhouse locations.
 
-Since I am giving addon authors "free reign" in what they choose to work on, I am expecting these dependencies to manifest naturally. Folks working on residences may be blocked initially until we have folks interested and then completing the communal buildings, which may naturally encourage folks to work on the communal buildings because they are not blocked by other dependencies.
+Since I am giving addon authors "free reign" in what they choose to work on, I am expecting these dependencies to manifest naturally. For example, folks working on residences may be blocked initially until we have folks interested and then completing the communal buildings, which may naturally encourage folks to work on the communal buildings because they are not blocked by other dependencies.
 
 ## Concerns Regarding Plugin Count
 
