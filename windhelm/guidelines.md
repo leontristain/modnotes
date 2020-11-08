@@ -61,7 +61,7 @@ Now, the exterior door record has already been finalized onto an exterior navmes
 
 This is bad in two ways. First, it makes it impossible for me to tweak navmesh and relocate exterior doors in later base mod updates without your addon to also update accordingly. Second, it makes it so that any base mod patch (say with JK's) that results in a different exterior triangle, would in turn require yet another separate patch for your addon.
 
-So, again this is very important. Always _reuse_ the interior door I provided in the stub interior cells, and never replace them with new doors.
+So, again this is very important. Always _reuse_ the interior door I provided in the stub interior cells, never replace them with new doors, and never break that door link.
 
 ## When Working On Tamriel Worldspace Stuff
 
