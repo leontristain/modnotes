@@ -91,7 +91,7 @@ The concern here is creating a conflicting situation with another addon which ma
 
 If you feel a strong need to move or disable important objects, please reach out to me and we can have a chat. I might be able to do it as a base mod update.
 
-### ONLY use NAVCUT boxes to manage navmesh.
+### Only use NAVCUT boxes to manage navmesh.
 
 It's very possible that you may want to add objects to the Windhelm worldspace that exists on navmesh but would block NPC passage. For example, if you want to add a new market stand, NPCs must be able to work the stand, but NPCs must not be allowed to try to walk through the stand and get stuck.
 
