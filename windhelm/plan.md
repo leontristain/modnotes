@@ -1,4 +1,4 @@
-# Plan For Community Effort
+# Community Effort Plan
 
 ## What Remaining Work Are Left?
 
