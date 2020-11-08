@@ -13,7 +13,7 @@ The remaining work involves:
 
 The current state of the mod is what I consider the "base mod", which includes the expanded city layout, navmesh, working door links, and stub interior cells. In order to best isolate contributor works from each other and minimize compatibility concerns, I will be in charge of these "infrastructure" bits of the expanded city, and ask contributors to not touch exterior layout, navmesh, and door links.
 
-I'd like to ask contributors to contribute their content as modular, self-contained "***addon***" mods in their own ESPs.
+I'd like to ask contributors to contribute their content as modular, self-contained "***addon***" mods in their own ESPs. Addons should abide by [these guidelines](/windhelm/guidelines.md) in order to keep addon content self-contained and isolated, so that we may reap the benefits of this "base mod + addon" scheme.
 
 This "base mod + addon" scheme has the following advantages:
 
