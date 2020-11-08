@@ -33,6 +33,8 @@ The restoration of the Windhelm Arena structure meant the prison building, which
 
 Lastly, there used to be a "piles-of-stones" broken half-wall across from Brunwulf's house. This has been turned into a "piles-of-stones" broken stairs that leads up to provide access to the Dockside Keep, and the Gray Quarters Wallwalks across the top of the docks gate.
 
+![](/windhelm/pics/vanillaedit07.png?raw=true)
+
 The above should be all major and notable edits to the vanilla Windhelm city. Other than these, there may also be some inconsequential edits that happened elsewhere, but they should be inconsequential, where patch conflicts should not result in a broken or even visually jarring game.
 
 As far as navmesh goes, in border cells that now contain both vanilla navmesh and newly expanded spaces, the vanilla navmesh was expanded with more triangles on the same navmesh record. Vanilla navmesh records are NEVER deleted or "sunk under the terrain" to be replaced by new navmesh. The market square navmesh has been reworked (on the same record) to close up the holes it used to have that made room for market stalls. NAVCUT boxes were used to manage navmesh in some scenarios.
