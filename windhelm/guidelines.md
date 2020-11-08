@@ -23,7 +23,7 @@ I can do all this in a single addon, or I can split it into two separate addons:
  - A Bathouse addon, including Alice and Bob
  - An Apartment addon, including Carter
 
-The good thing about two separate addons is that first, each addon would have less new records than the combined addon, which means if the combined addon is too big to be an ESPFE, the two separate addons can each be ESPFE.
+The good thing about two separate addons is that first, each addon would have less new records than the combined addon, which means if the combined addon is too big to be an ESPFE, the two separate addons might be small enough to be turned into ESPFEs.
 
 Second, the bathhouse addon is now usable without the apartment addon contents. This means it's now possible to choose a different addon for the apartment, and _still_ have my bathhouse. This is good flexibility to have. Without being coupled together with the apartment, the bathhouse is now easier to depend on by other addons, and the user has more choices.
 
