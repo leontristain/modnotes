@@ -1,7 +1,5 @@
 # Anticipated Future Work
 
-Other than continuous improvement over the [Base Mod](/windhelm/base.md), and eventual patches with popular mods like JK's, I am also planning to do the following work as independent pieces or addons. These represent content that would "complete the vision" for the expanded Windhelm city, but for modularity/cleanliness purposes, should be created separately from the base mod.
-
 ## Base Mod Work
 
 ### Continuous Bug Fixes And Quality Improvements
@@ -31,7 +29,55 @@ The northern district bonfire is perhaps a tad too large. Perhaps a smaller bonf
 
 The [Northeast Gatehouse](/windhelm/interiors/northeast/gatehouse.md) has a fairly large space underneath the gate. This could use a portcullis and some murder holes which may make Shadiversity fans a bit happier. Though the vanilla portcullis nif is too small for this purpose, maybe I can find some witcher nifs for it. Murder holes can probably be made out of some of those windows.
 
-## Separate Work
+### Tamriel Worldspace Intruder Prevention
+
+I imagine one reason vanilla Windhelm only _barely_ touches the mountainside with one of its corners, is because that design made it easy to prevent people from jumping into the city (and all those Tamriel worldspace building standins) from above the mountain. With my expansion more or less hugging the mountain, this becomes a legitimate quality concern. As it stands, if you climb to the mountain peak in Tamriel worldspace and jump into the city, you'll end up among the LOD chaos and get stuck. Any player can of course un-stuck themselves using various console tricks, but ideally we wouldn't have to do that.
+
+I think this can be solved by cleverly using collision planes and autoloaddoors. Make it so that in some places, you simply can't jump over the walls at all, and in other places, jumping over the walls and into the city will teleport you into an appropriate location into the Windhelm worldspace.
+
+### Civil War Compatibility
+
+Windhelm is involved in the civil war, so a Windhelm expansion should ideally be compatible with the civil war events.
+
+Thus far, since I didn't touch the vanilla content much, I suspect it should remain compatible with the civil war events. However, the new areas would not be affected by civil war events, so there may be some oddities. For example, during certain civil war events, vanilla buildings may be burning next to newly added buildings that are not - I don't know how bad or weird this may look. Another example is that there are "anti-fast travel" regions drawn with gigantic boxes that cover the entire vanilla Windhelm. Those may need to be enlarged to also cover the expanded Windhelm, or you'll be able to simply, in the event, walk over to an expanded area, and then fast travel out of there and break the game.
+
+Anyway, at some point there will probably be a pass to address these. Until then, the player can always choose to not stray away from the normal/expected path, and the player can always fix issues using console tricks.
+
+## Eventual Patches
+
+### Windhelm Worldspace
+
+* JK's Skyrim / Dawn of Skyrim
+
+### Tamriel Worldspace
+
+* Windhelm Bridge Overhaul (if anything is needed)
+* Windhelm Exterior Altered
+* Windhelm Docks Pathways
+
+### Currently Unknown
+
+I've been told that the author of [Fortified Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/40094) is working on a [Fortified Windhelm](https://www.nexusmods.com/skyrimspecialedition/images/84030) mod. This mod is not yet released but there are preview screenshots with really great looking battlements. When this mod is out I will be attempting a patch to see if we can get this mod's interior expansion and wallwalks but with that mod's battlements, gate, and bridge. Wouldn't that be amazing?
+
+I've also learned that the author of [Capital Whiterun Edition](https://www.nexusmods.com/skyrimspecialedition/mods/37982) is working on an interior expansion mod for Windhelm. This mod and that mod conflicts in concept so a direct patch may not be possible. However I am a huge fan of Surjamte's work with Whiterun and I'm sure the Windhelm version will come with many interiors, NPCs, and quests, and I wonder if at the very least I can create a patch that brings over some of the interiors, NPCs, and quests into my city layout and buildings as an addon.
+
+### Others
+
+The base mod needs an USSEP patch. If you see floating icicles around the Arena prison - those are some USSEP-added objects that can only be disabled or relocated in an USSEP patch.
+
+### A Note On Open Cities Skyrim
+
+I do not plan to eventually work on an Open Cities patch.
+
+I personally do not use Open Cities Skyrim and not a fan of the idea in general. I think throwing everything into one worldspace makes compatibility and large modlists a harder problem for folks to solve, and my personal view is that Skyrim could use _more_ loading doors and separated spaces. Separate spaces help with modularity and confining the scope of issues. It can also be advantageous in that the inside can be bigger or different from the outside and still allow suspension of disbelief.
+
+Though, I do fully recognize above views as personal. That said, as you can clearly see here there are tons of other work to do, so with these as my personal views, I naturally have less motivation to work on one, and thus I will be prioritizing an OCS patch at the very bottom, which likely means I don't expect to ever get to it.
+
+That said, anyone else is completely free to work on an OCS patch. More choices is always better than less choices.
+
+Currently, the base mod is roughly the same size inside as it is outside, so I believe fundamentally an OCS patch is possible.
+
+## Work To Be Done As Separate ESPs
 
 ### Mountain Rework North of Windhelm
 
