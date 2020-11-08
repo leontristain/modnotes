@@ -14,7 +14,9 @@ Having a common naming convention for addons improves user experience. It's nice
 
 ### Please keep your content as modular and self-contained as possible
 
-With a "base mod + addons" scheme where addons may depend on other addons, and addons are best created as ESPFEs because there can be many of them, it's a great idea to try to keep content modular and self-contained.
+With a "base mod + addons" scheme where addons may depend on other addons, and addons are best created as ESPFEs because there can be many of them, it's a great idea to try to keep content modular and self-contained. It's hard to define exactly what modular and self-contained means, since they're kind of like general philosophies. I will provide two examples instead:
+
+#### Example 1
 
 Here's an example. Suppose I want to create an addon for the [Bathhouse](/windhelm/interiors/western/bathhouse.md) and one of the [Meadhall Apartments](/windhelm/interiors/western/apartments.md). Suppose the bathhouse is owned and managed by NPCs Alice and Bob, but they hire a worker called Carter who lives in that apartment. Alice and Bob have daily schedules that mostly revolves around the bathhouse itself. Carter however lives at the apartment and only shows up at the bathhouse during certain hours.
 
@@ -26,6 +28,12 @@ I can do all this in a single addon, or I can split it into two separate addons:
 The good thing about two separate addons is that first, each addon would have less new records than the combined addon, which means if the combined addon is too big to be an ESPFE, the two separate addons might be small enough to be turned into ESPFEs.
 
 Second, the bathhouse addon is now usable without the apartment addon contents. This means it's now possible to choose a different addon for the apartment, and _still_ have the same bathhouse. This is good flexibility to have. Without being coupled together with the apartment, the bathhouse is now easier to depend on by other addons, and the user has more choices.
+
+#### Example 2
+
+Suppose I want to "prettify" the Windhelm worldspace by adding clutter and decoration. Unless you're doing it for the whole city everywhere, a good way to go about it is probably to "own an area" and never go beyond that area.
+
+For example, I might choose to decorate ONLY the Southern Wallwalk, in which case I will thoroughly decorate the Southern Wallwalk, but leave other regions, like Western District's ground level, the Market square, etc... alone. That way, should another mod tries to only update the Western District's ground level, their decorations won't overlap with yours.
 
 ### Please remember to add signs to the Windhelm Worldspace to match your content
 
@@ -64,6 +72,14 @@ This is bad in two ways. First, it makes it impossible for me to tweak navmesh a
 So, again this is very important. Always _reuse_ the interior door I provided in the stub interior cells, never replace them with new doors, and never break that door link.
 
 ## When Working On Tamriel Worldspace Stuff
+
+### Try to avoid large-scale visual changes to vanilla areas
+
+The overall spirit of this Windhelm expansion mod is to expand Windhelm and not overhaul vanilla areas. A few exceptions happened, such as the expansion of the market square, the Windhelm Arena prison structure, and some stair cases connecting vanilla areas and wallwalk levels. Still, vanilla area proper should be considered out of scope for this Windhelm expansion mod.
+
+This is important because it hopefully keeps the patch problem with mods that overhauls the vanilla areas, like JK's and Dawn of Skyrim, simple. Addons should follow suit, or addons may need to provide their own patches for these mods, which can get really complicated.
+
+Of course, dropping a marker for NPC behavior, or adding some small object for a quest, are probably okay. Use your own judgment.
 
 ### Please try to keep all your changes purely additive
 
