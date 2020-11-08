@@ -40,7 +40,7 @@ Barring logistical issues (see [Concerns Regarding Dependencies Between Addons](
 
 Basically, you are free to work on anything. All I ask is that you follow [these guidelines](/windhelm/guidelines.md). I also encourage you to keep your addons modular and self-contained. For example, if you are implementing 2 interiors, see if you can organize the work into two separate addons, as that would be preferred. (related: see [Concerns Regarding Plugin Count](#concerns-regarding-plugin-count))
 
-For interested folks, a good starting point is to read [the overview](/windhelm/tldr.md) and then browse through [what buildings are available](/windhelm/details.md), maybe one or two of them would spark your interest and enthusiasm. When you start, please feel free to let me know what you'll be taking a stab at, so that I am informed on the overall state of the community effort.
+For interested folks, a good starting point is to read [the overview](/windhelm/tldr.md) and then browse through [what buildings are available](/windhelm/details.md), maybe one or two of them would spark your imagination and interest. When you start, please feel free to let me know what you'll be taking a stab at, so that I am informed on the overall state of the community effort.
 
 ## What If I Want Something "Infrastructure-y" Changed?
 
