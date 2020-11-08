@@ -35,7 +35,7 @@ Lastly, there used to be a "piles-of-stones" broken half-wall across from Brunwu
 
 ![](/windhelm/pics/vanillaedit07.png?raw=true)
 
-The above should be all major and notable edits to the vanilla Windhelm city. Other than these, there may also be some inconsequential edits that happened elsewhere, but they should be inconsequential, where patch conflicts should not result in a broken or even visually jarring game.
+The above should be all major and notable edits to the vanilla Windhelm city. As you can see, they are all minimally designed and serve important roles. Other than these, there may also be some inconsequential edits that happened elsewhere, but they should be inconsequential, where patch conflicts should not result in a broken or even visually jarring game.
 
 As far as navmesh goes, in border cells that now contain both vanilla navmesh and newly expanded spaces, the vanilla navmesh was expanded with more triangles on the same navmesh record. Vanilla navmesh records are NEVER deleted or "sunk under the terrain" to be replaced by new navmesh. The market square navmesh has been reworked (on the same record) to close up the holes it used to have that made room for market stalls. NAVCUT boxes were used to manage navmesh in some scenarios.
 
