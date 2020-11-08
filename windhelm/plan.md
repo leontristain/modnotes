@@ -13,13 +13,25 @@ The remaining work involves:
 
 The current state of the mod is what I currently consider the "base mod", which includes the expanded city layout, navmesh, working door links, and stub interior cells. In order to best isolate contributor works from each other and minimize compatibility concerns, I will be in charge of these "infrastructure" bits of the expanded city, and ask contributors to not touch exterior layout, navmesh, and door links.
 
-I'd like to ask contributors to contribute their content as modular, self-contained "***addon***" mods in their own ESPs, so that I can continue to work on the base mod "infrastructure" in parallel, and to maintain modularity so that dependencies can be flexibly managed. When addons are complete, they are expected to be published individually, and eventually merged into an "addon pack", that when installed together with my base mod, will represent the final, complete product.
+I'd like to ask contributors to contribute their content as modular, self-contained "***addon***" mods in their own ESPs.
+
+This "base mod + addon" scheme has the following advantages:
+
+* The base mod provides a common platform for addon authors to work on.
+* The base mod can take up the responsibility of patching with other Windhelm overhaul mods like JK's/DoS, and addons should be largely isolated from these changes.
+* The base mod can progress in parallel with addons. I will do the best I can at maintaining backwards compatibility with base mod updates.
+* Addons are self-contained and isolated from each other, minimizing conflicts and patching needs between addons.
+* Addons are modular and composable, allowing for combinations of addons to be curated together into "addon packs" or simply be picked and chosen by users themselves.
+* The overall scheme should end up giving addon authors a lot of flexibility. An addon could be of any size, so novice mod authors could pick up a small beginner project while highly interested prolific authors can attempt something really big and complex.
+* The overall scheme should end up giving addon authors a lot of creative freedom to work on their own vision. There's no need to conform to a singular vision, and multiple addons that implement the same building could each have their audience (see [Concerns Regarding Overlapping Content](#concerns-regarding-overlapping-content)).
+
+When addons are complete, they are expected to be published individually, and eventually merged into an "addon pack", that when installed together with my base mod, will represent the final, complete product.
 
 This means I am expecting contributors to provide open permissions for myself or others to include their creative work in any "addon packs" I or others may curate eventually.
 
 ## What Can Addon Authors Work On?
 
-Barring logistical issues (see below section on "Dependencies Between Addons), contributors are free to work on any interiors, NPCs, quests, merchants, other dynamic gameplay content, and decor/clutter. For example:
+Barring logistical issues (see [Concerns Regarding Dependencies Between Addons](#concerns-regarding-dependencies-between-addons)), contributors are free to work on any interiors, NPCs, quests, merchants, other dynamic gameplay content, and decor/clutter. For example:
 
 * A small-scale addon mod that builds out a single interior and adds NPCs that live in it.
 * A small-scale addon mod that builds out a single interior as a merchant shop, complete with NPCs with a shop schedule.
@@ -54,3 +66,12 @@ Second, the expected method for eventual "final form" of the Windhelm expansion 
 
 If your addon does not fit into the limit of an ESPFE, and you feel strongly about maintaining distribution control such that you don't want to provide permission to include into addon packs, then I think it's likely that you have created a large, extensive, and high-quality mod that took lots of time and effort. If so, then I think perhaps it is deserving of an ESP slot of its own, in the same way as, say, Morskom Estate deserves its own ESP slot in a modlist that overhauls Dawnstar, and Drengin's Blue Palace Terrace deserves its own ESP slot in a modlist that overhauls Solitude. In this scenario, the ESP slot is no more an issue than what is already the existing situation.
 
+## Concerns Regarding Overlapping Content
+
+Multiple addons that change the same thing obviously are not compatible with each other. However, if they exist as separate but competing addons, then each vision can have its own audience. In contrast, if we all conform to the same vision, then only one person's creative vision will be realized.
+
+Regarding "addon packs", while I will curate and release my own "addon pack" out of the addons we get, I will release it as a separate NexusMods mod so to not advertise it as "official". From my perspective, anyone can curate their own addon pack and release it, and any addon may be chosen by any addon pack to be included. Again, permission for your addon to be part of an addon pack is not required, but I do highly encourage it.
+
+The user is also not required to use addon packs and can choose to merge their own addon pack, or simply install individual addons separately (if they've got the space in their modlist).
+
+Overall, between competing addons each can have their own audience.
