@@ -22,7 +22,7 @@ For a quick, basic walk-through of mod details (with lots of pretty pictures), p
 
 In the Windhelm Worldspace, the basic layout, structures, and building locations are finished. Vanilla fixups are complete. Windhelm worldspace has Tamriel worldspace standins for structures like Windhelm Bridge, and Tamriel worldspace has Windhelm worldspace standins for the expanded walls and new districts. All exteriors are fully navmeshed, and all doors are linked.
 
-However, with the exception of the [Windswept Manor Commons](/windhelm/windswept/commons.md), no interior work have been done. The interior cells have been created as minimal stubs but nothing else. There are also no NPCs, merchants, quests, or other actual gameplay content in the newly expanded areas.
+However, with the exception of the [Windswept Manor Commons](/windhelm/interiors/windswept/commons.md), no interior work have been done. The interior cells have been created as minimal stubs but nothing else. There are also no NPCs, merchants, quests, or other actual gameplay content in the newly expanded areas.
 
 This means if you explore the mod now, you can explore the expanded Windhelm city without any issues. However the new areas will be empty, and if you enter any building doors you will see incomplete interiors.
 
