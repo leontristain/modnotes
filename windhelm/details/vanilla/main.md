@@ -1,8 +1,8 @@
 # Vanilla Areas
 
-For the large part, vanilla areas have not changed. However, the many edges of the vanilla areas now connect up to the wallwalk levels via stairs, and additional space have been made available for the marketplace square to its west. In these places we have opportunities for some new doors that lead to interiors.
+Vanilla Windhelm is mostly untouched, with the exception of parts that border newly expanded Windhelm. You can read details of vanilla area edits [here](/windhelm/details/vanilla/vanillaedits.md).
 
-The following are available interiors for vanilla areas.
+One part that was somewhat touched is the market square, which got expanded by about half its original size. In and around the market square, we now have 2 new doors that can lead into interiors:
 
 * [Windhelm Bakery](/windhelm/details/vanilla/bakery.md)
 * [Windhelm Blacksmith Quarters Attic](/windhelm/details/vanilla/blacksmithattic.md)
