@@ -71,7 +71,7 @@ This is bad in two ways. First, it makes it impossible for me to tweak navmesh a
 
 So, again this is very important. Always _reuse_ the interior door I provided in the stub interior cells, never replace them with new doors, and never break that door link.
 
-## When Working On Tamriel Worldspace Stuff
+## When Working On Windhelm Worldspace Stuff
 
 ### Try to avoid large-scale visual changes to vanilla areas
 
