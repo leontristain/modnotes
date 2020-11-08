@@ -53,7 +53,7 @@ This one is absolutely important.
 
 The base mod provides interior cell stubs for all the available but unimplemented buildings. The interior cell stub will contain one or more interior doors. Those interior doors are already linked to exterior doors in the Windhelm worldspace. Absolutely, no matter what you do, REFRAIN from replacing the interior door with a new one and relink to the exterior door. No matter what you do, make sure you leave that door link alone.
 
-You are free to move that interior door to whichever location, including relocating it into a different interior cell (which can be done in xEdit). You are also free to modify that interior door however - change its ownership, lock difficulty, etc... You are free to re-finalize that door onto any interior navmesh triangle. However, never break the door link to the exterior door.
+You are free to move that interior door to whichever location, including relocating it into a different interior cell (which can be done in xEdit). You are also free to modify that interior door however - change its ownership, lock difficulty, etc... You are free to re-finalize that door onto any interior navmesh triangle. However, never break the door link to the exterior door. Note that this also means never remove the door link and then recreate the same door link. Always leave that door link alone.
 
 The reason for this is that, if you break the door link and relink the exterior door onto a different door, you create an override on the exterior door record. 
 
