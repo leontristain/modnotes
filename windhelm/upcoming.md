@@ -29,6 +29,10 @@ The northern district bonfire is perhaps a tad too large. Perhaps a smaller bonf
 
 The [Northeast Gatehouse](/windhelm/details/northeast/gatehouse.md) has a fairly large space underneath the gate. This could use a portcullis and some murder holes which may make Shadiversity fans a bit happier. Though the vanilla portcullis nif is too small for this purpose, maybe I can find some witcher nifs for it. Murder holes can probably be made out of some of those windows.
 
+### Windswept Manor Balcony Railing
+
+The [Windswept Manor Suite](/windhelm/details/windswept/suite.md) has an awesome balcony. The fences of that balcony however are currently a bunch of overlapping ladders, and the overlapping surfaces means if you squint your eyes you can see the textures flickering. I plan to redo the railing to resolve this issue.
+
 ### Tamriel Worldspace Intruder Prevention
 
 I imagine one reason vanilla Windhelm only _barely_ touches the mountainside with one of its corners, is because that design made it easy to prevent people from jumping into the city (and all those Tamriel worldspace building standins) from above the mountain. With my expansion more or less hugging the mountain, this becomes a legitimate quality concern. As it stands, if you climb to the mountain peak in Tamriel worldspace and jump into the city, you'll end up among the LOD chaos and get stuck. Any player can of course un-stuck themselves using various console tricks, but ideally we wouldn't have to do that.

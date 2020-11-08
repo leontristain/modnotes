@@ -1,7 +1,7 @@
 # Mountain Caves
 
 ![](/windhelm/pics/mountaingate.png?raw=true "Mountain Gate")
-![](/windhelm/pics/beacon.png?raw=true "Mountain caves connects to door near beacon.png?raw=true "Windhelm Bank")
+![](/windhelm/pics/beacon2.png?raw=true "Mountain caves connects to door near beacon")
 
 On the northwest edge of Windhelm where it touches the mountain, there exists a large, epic gate that leads into the mountain.
 
