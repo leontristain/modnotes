@@ -14,7 +14,7 @@ Having a common naming convention for addons improves user experience. It's nice
 
 ### Please keep your content as modular and self-contained as possible
 
-With a "base mod + addon" where addons may depend on other addons, and addons are best created as ESPFEs because there can be many of them, it's a great idea to try to keep content modular and self-contained.
+With a "base mod + addons" scheme where addons may depend on other addons, and addons are best created as ESPFEs because there can be many of them, it's a great idea to try to keep content modular and self-contained.
 
 Here's an example. Suppose I want to create an addon for the [Bathhouse](/windhelm/interiors/western/bathhouse.md) and one of the [Meadhall Apartments](/windhelm/interiors/western/apartments.md). Suppose the bathhouse is owned and managed by NPCs Alice and Bob, but they hire a worker called Carter who lives in that apartment. Alice and Bob have daily schedules that mostly revolves around the bathhouse itself. Carter however lives at the apartment and only shows up at the bathhouse during certain hours.
 
