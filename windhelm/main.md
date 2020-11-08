@@ -40,6 +40,6 @@ Therefore, I am asking for folks to help. I am doing this in two ways. The first
 
 1. All my permissions are completely open, so at the very basic level, anyone can "fork" my mod whenever and however they like. This way, even if my efforts at this project fails at the end, whatever's complete can be carried on by someone else down the road.
 
-2. I am soliciting interested folks to help out with interiors, NPCs, quests, clutter, etc... I have put in a lot of effort in fleshing out the current state of the mod as a "base platform", such that contributors can build "addons" upon it, to be released independently and eventually curated into "addon packs". The "base platform" handles all exterior navmesh and door links, and provides stub cells. For details, please see the [Community Effort Plan](/windhelm/plan.md)
+2. I am soliciting interested folks to help out with interiors, NPCs, quests, clutter, etc... I have put in a lot of effort in fleshing out the current state of the mod as a "base platform", such that contributors can build "addons" upon it, to be released independently and eventually curated into "addon packs". The "base platform" handles all exterior navmesh and door links, and provides stub interior cells. For details, please see the [Community Effort Plan](/windhelm/plan.md)
 
 If you are interested to contribute, feel free to hit me up and we can have a chat. I maintain presence on NexusMods, reddit, and here on github.
