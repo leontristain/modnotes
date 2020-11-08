@@ -27,6 +27,14 @@ The good thing about two separate addons is that first, each addon would have le
 
 Second, the bathhouse addon is now usable without the apartment addon contents. This means it's now possible to choose a different addon for the apartment, and _still_ have my bathhouse. This is good flexibility to have. Without being coupled together with the apartment, the bathhouse is now easier to depend on by other addons, and the user has more choices.
 
+### Please remember to add signs to the Windhelm Worldspace to match your content
+
+This is just a reminder for something that I think is easy to forget.
+
+If you turned one of the buildings into a shop, you should also add a sign for it in the Windhelm worldspace just outside the door. This should be the responsibility of the addon because the sign should reflect what the addon turned the building into, which can easily differ from addon to addon.
+
+The placement of the sign object should be purely additive, and shouldn't touch any navmesh or exterior doors, so it should be perfectly fine to do so.
+
 ## When Working On Interior Cells
 
 ### Please use an existing interior cell stub whenever possible
@@ -55,7 +63,7 @@ This is bad in two ways. First, it makes it impossible for me to tweak navmesh a
 
 So, again this is very important. Always _reuse_ the interior door I provided in the stub interior cells, and never replace them with new doors.
 
-## When WOrking On Tamriel Worldspace Stuff
+## When Working On Tamriel Worldspace Stuff
 
 ### Please try to keep all your changes purely additive
 
@@ -75,4 +83,13 @@ For cases like that, you can resolve the issue by using NAVCUT collision boxes. 
 
 Navmesh records are messy and complicated records, and they make compatibility patches a nightmare. To make navmesh conflicts as easy and simple to resolve as possible, the base mod has to take full responsibility of all the navmesh. Exterior doors are directly coupled with navmesh because the navmesh record contain door references, and the door record contain navmesh triangle references. Thus both need to be fully controlled by the base mod.
 
-As long as you don't touch exterior navmesh and doors, I can handle patching with mods like JK's in the base mod, and your addon should remain compatible without anything extra. There may still be a very small chance that perhaps some object you placed is not in a good location post-patch, but that's nothing that can't be addressed by simply choosing a better location that works for both worlds. If you touch navmesh, the need for more patches is inevitable.
+As long as you don't touch exterior navmesh and doors, I can handle patching with mods like JK's in the base mod, and your addon should remain compatible without anything extra. There may still be a very small chance that perhaps some object you placed is not in a good location post-patch, but that's nothing that can't be addressed by simply choosing a better location that works for both worlds (see next guideline). If you touch navmesh, the need for more patches is inevitable.
+
+### Please try to choose object placement locations with an eye for potential compatibility issues.
+
+I will eventually create patches between the base mod and mods like JK's. When that happens, I expect 95% of Windhelm will remain the same from a functional perspective, but at the border between vanilla areas and expanded areas where conflicts are resolved, the resulting space may be slightly different, such that when objects are placed in some places, it might end up being a bad place post-patch.
+
+To avoid a patch for your addon, it's best to choose a location that works both pre-patch and post-patch. This can be tricky, but the following may be good to keep in mind.
+
+* Locations squarely within newly expanded areas should be perfectly safe, since other mods would not have modified those places. If you are working on clutter/decoration, you'll likely be working in these newly expanded areas so you're probably fine.
+* For locations close enough to vanilla areas that other mods may touch and a patch may result in a different space, places "in the middle of the road" might be safer than places right next to a corner or a wall, since decorations are likely to line up against walls. If you're working close to or in vanilla areas, you're probably placing down things like markers, so perhaps "don't put them too close to edges" is a good idea?
