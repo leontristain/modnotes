@@ -71,6 +71,8 @@ Please do not _move_ anything in the Tamriel worldspace. Instead, try to only ad
 
 If you absolutely need to, it's probably okay to disable some objects, but try not to disable anything important, and only when absolutely necessary.
 
+The concern here is creating a conflicting situation with another addon which may want to do the same thing. If you want to move object X to location Y while another addon want to move object X to location Z, only one will win and the result may look visually jarring, so it's good to discourage this for all addons. With disables, the result can only mean the object disappears, so it's less of a problem, but purely additive changes is best.
+
 If you feel a strong need to move or disable important objects, please reach out to me and we can have a chat. I might be able to do it as a base mod update.
 
 ### ONLY use NAVCUT boxes to manage navmesh.
