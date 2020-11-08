@@ -10,7 +10,7 @@ If you want to prevent potential naming collisions with other addons, you can ad
 
 If your addon is a simple patch that relocates another mod's contents into one of the buildings provided by the base mod, then you can simply put `-Patch` at the end. For example, if my addon relocates [Astronomer's Loft](https://www.nexusmods.com/skyrimspecialedition/mods/38059) into the [Windhelm Blacksmith Quarters Attic](/windhelm/interiors/vanilla/blacksmithattic.md), a good name might be `EpicWindhelm-AstronomersLoft-Patch.esp`.
 
-Having a common convention name for addons improves user experience. It's nice when in MO2 or Vortex you can see all these related plugins looking the same and listed together.
+Having a common naming convention for addons improves user experience. It's nice when in MO2 or Vortex you can see all these related plugins looking the same and listed together.
 
 ### Please keep your content as modular and self-contained as possible
 
