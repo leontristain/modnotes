@@ -87,7 +87,7 @@ I see the main issue here being the shape of the mountains to the north and a "v
 
 Thus, I think a better solution than to make ridiculously high walls, is to rework the mountains there. Add more big mountain rocks with extreme vertical slopes on both sides, and block off the "valley" with them. The result should be a highly effective natural barrier making the wall less necessary. No enemy would be able to lead large armies over such peaks, and view of that area from the city would look a lot more natural.
 
-This involves placing more objects and NAVCUT boxes in the Tamriel worldspace, and adding similar standins into the Windhelm worldspace. I can see it being done entirely in its own small mod, and I can see the it being a .esl, so it makes sense to keep it separate.
+This involves placing more objects and NAVCUT boxes in the Tamriel worldspace, and adding similar standins into the Windhelm worldspace. I can see it being done entirely in its own small mod, and I can see the it being an ESPFE, so it makes sense to keep it separate.
 
 ### Northeast Road to Winterhold
 
