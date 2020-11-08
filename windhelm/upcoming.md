@@ -61,7 +61,7 @@ I've been told that the author of [Fortified Whiterun](https://www.nexusmods.com
 
 I've also learned that the author of [Capital Whiterun Edition](https://www.nexusmods.com/skyrimspecialedition/mods/37982) is working on an interior expansion mod for Windhelm. This mod and that mod conflicts in concept so a direct patch may not be possible. However I am a huge fan of Surjamte's work with Whiterun and I'm sure the Windhelm version will come with many high quality interiors, NPCs, and quests, and I wonder if at the very least I can create a patch that brings over some of the interiors, NPCs, and quests into my city layout and buildings as an addon.
 
-### Others
+### USSEP
 
 The base mod needs an USSEP patch. If you see floating icicles around the Arena prison - those are some USSEP-added objects that can only be disabled or relocated in an USSEP patch.
 
