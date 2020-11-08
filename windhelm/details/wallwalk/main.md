@@ -4,5 +4,5 @@ Epic Windhelm Expansion Base makes the entirety of Windhelm's wallwalk level acc
 
 The following are available interiors along the wallwalks.
 
-* [Gray Quarter Wall Storerooms 01-02](/windhelm/interiors/wallwalk/grayquarterwallstorerooms.md)
-* [Dockside Keep](/windhelm/interiors/wallwalk/docksidekeep.md)
+* [Gray Quarter Wall Storerooms 01-02](/windhelm/details/wallwalk/grayquarterwallstorerooms.md)
+* [Dockside Keep](/windhelm/details/wallwalk/docksidekeep.md)

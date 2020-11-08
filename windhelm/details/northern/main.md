@@ -8,8 +8,8 @@ The Northern District is located on the hills behind Valunstrad adjacent to the 
 
 The following are available interiors for the Northern District.
 
-* [Mountain Caves](/windhelm/interiors/northern/mountaincaves.md)
-* [Windhelm Bank](/windhelm/interiors/northern/bank.md)
-* [Stonemasonry Guild](/windhelm/interiors/northern/stonemasonryguild.md)
-* [Northern District Mansion and Servant Quarters](/windhelm/interiors/northern/mansion.md)
-* [Northern District Residences 01-03](/windhelm/interiors/northern/residences.md)
+* [Mountain Caves](/windhelm/details/northern/mountaincaves.md)
+* [Windhelm Bank](/windhelm/details/northern/bank.md)
+* [Stonemasonry Guild](/windhelm/details/northern/stonemasonryguild.md)
+* [Northern District Mansion and Servant Quarters](/windhelm/details/northern/mansion.md)
+* [Northern District Residences 01-03](/windhelm/details/northern/residences.md)

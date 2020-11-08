@@ -23,11 +23,11 @@ Of note here is the Eastern Tower, which is a circular tower that is part of the
 
 The following are available interiors in the Northeast District.
 
-* [Northeast District Pub](/windhelm/interiors/northeast/pub.md)
-* [Northeast District Temple](/windhelm/interiors/northeast/temple.md)
-* [Northeast District Temple Back](/windhelm/interiors/northeast/templeback.md)
-* [Northeast District Residences 01-06](/windhelm/interiors/northeast/residences.md)
-* [Northeast Warehouse](/windhelm/interiors/northeast/warehouse.md)
-* [Northeast Gatehouse](/windhelm/interiors/northeast/gatehouse.md)
-* [Northeast Castle](/windhelm/interiors/northeast/castle.md)
-* [Northeast District Arena Back](/windhelm/interiors/northeast/arenaback.md)
+* [Northeast District Pub](/windhelm/details/northeast/pub.md)
+* [Northeast District Temple](/windhelm/details/northeast/temple.md)
+* [Northeast District Temple Back](/windhelm/details/northeast/templeback.md)
+* [Northeast District Residences 01-06](/windhelm/details/northeast/residences.md)
+* [Northeast Warehouse](/windhelm/details/northeast/warehouse.md)
+* [Northeast Gatehouse](/windhelm/details/northeast/gatehouse.md)
+* [Northeast Castle](/windhelm/details/northeast/castle.md)
+* [Northeast District Arena Back](/windhelm/details/northeast/arenaback.md)

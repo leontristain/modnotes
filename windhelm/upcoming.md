@@ -27,7 +27,7 @@ The northern district bonfire is perhaps a tad too large. Perhaps a smaller bonf
 
 ### Northeast Gatehouse Portcullis And Murder Holes
 
-The [Northeast Gatehouse](/windhelm/interiors/northeast/gatehouse.md) has a fairly large space underneath the gate. This could use a portcullis and some murder holes which may make Shadiversity fans a bit happier. Though the vanilla portcullis nif is too small for this purpose, maybe I can find some witcher nifs for it. Murder holes can probably be made out of some of those windows.
+The [Northeast Gatehouse](/windhelm/details/northeast/gatehouse.md) has a fairly large space underneath the gate. This could use a portcullis and some murder holes which may make Shadiversity fans a bit happier. Though the vanilla portcullis nif is too small for this purpose, maybe I can find some witcher nifs for it. Murder holes can probably be made out of some of those windows.
 
 ### Tamriel Worldspace Intruder Prevention
 

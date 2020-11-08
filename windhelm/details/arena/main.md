@@ -6,5 +6,5 @@ One thing Epic Windhelm Expansion Base does is restores the Windhelm Arena struc
 
 The following are available interiors near the Windhelm Arena Entrance
 
-* [Windhelm Arena Prison](/windhelm/interiors/arena/prison.md)
-* [Windhelm Arena Worldspace](/windhelm/interiors/arena/arena.md)
+* [Windhelm Arena Prison](/windhelm/details/arena/prison.md)
+* [Windhelm Arena Worldspace](/windhelm/details/arena/arena.md)

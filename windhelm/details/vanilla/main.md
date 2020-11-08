@@ -4,5 +4,5 @@ For the large part, vanilla areas have not changed. However, the many edges of t
 
 The following are available interiors for vanilla areas.
 
-* [Windhelm Bakery](/windhelm/interiors/vanilla/bakery.md)
-* [Windhelm Blacksmith Quarters Attic](/windhelm/interiors/vanilla/blacksmithattic.md)
+* [Windhelm Bakery](/windhelm/details/vanilla/bakery.md)
+* [Windhelm Blacksmith Quarters Attic](/windhelm/details/vanilla/blacksmithattic.md)

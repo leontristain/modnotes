@@ -6,9 +6,9 @@ Vanilla Windhelm's western walls has been repurposed into the High Road - a broa
 
 The following are available interiors for the Western District.
 
-* [Meadhall](/windhelm/interiors/western/meadhall.md)
-* [Meadhall Apartments 01-03](/windhelm/interiors/western/apartments.md)
-* [Western District Residences 01-04](/windhelm/interiors/western/residences.md)
-* [Western District Temple](/windhelm/interiors/western/temple.md)
-* [Windhelm Bathhouse](/windhelm/interiors/western/bathhouse.md)
-* [Western Fort](/windhelm/interiors/western/fort.md)
+* [Meadhall](/windhelm/details/western/meadhall.md)
+* [Meadhall Apartments 01-03](/windhelm/details/western/apartments.md)
+* [Western District Residences 01-04](/windhelm/details/western/residences.md)
+* [Western District Temple](/windhelm/details/western/temple.md)
+* [Windhelm Bathhouse](/windhelm/details/western/bathhouse.md)
+* [Western Fort](/windhelm/details/western/fort.md)

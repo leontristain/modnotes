@@ -4,11 +4,11 @@
 
 ### Please follow the following naming convention.
 
-The base mod will be called `EpicWindhelmBase.esp`. Your addon should be called `EpicWindhelm-YourModName.esp`. For example, if you turned the [Western District Temple](/windhelm/interiors/western/temple.md) into a building called the "Temple of Kyne", a good addon name might be `EpicWindhelm-TempleOfKyne.esp`.
+The base mod will be called `EpicWindhelmBase.esp`. Your addon should be called `EpicWindhelm-YourModName.esp`. For example, if you turned the [Western District Temple](/windhelm/details/western/temple.md) into a building called the "Temple of Kyne", a good addon name might be `EpicWindhelm-TempleOfKyne.esp`.
 
 If you want to prevent potential naming collisions with other addons, you can add a prefix before the `YourModName` part. For example, I tend to prefix my stuff with `ltr`, so I might call it `EpicWindhelm-ltrTempleOfKyne.esp`.
 
-If your addon is a simple patch that relocates another mod's contents into one of the buildings provided by the base mod, then you can simply put `-Patch` at the end. For example, if my addon relocates [Astronomer's Loft](https://www.nexusmods.com/skyrimspecialedition/mods/38059) into the [Windhelm Blacksmith Quarters Attic](/windhelm/interiors/vanilla/blacksmithattic.md), a good name might be `EpicWindhelm-AstronomersLoft-Patch.esp`.
+If your addon is a simple patch that relocates another mod's contents into one of the buildings provided by the base mod, then you can simply put `-Patch` at the end. For example, if my addon relocates [Astronomer's Loft](https://www.nexusmods.com/skyrimspecialedition/mods/38059) into the [Windhelm Blacksmith Quarters Attic](/windhelm/details/vanilla/blacksmithattic.md), a good name might be `EpicWindhelm-AstronomersLoft-Patch.esp`.
 
 Having a common naming convention for addons improves user experience. It's nice when in MO2 or Vortex you can see all these related plugins looking the same and listed together.
 
@@ -18,7 +18,7 @@ With a "base mod + addons" scheme where addons may depend on other addons, and a
 
 #### Example 1
 
-Here's an example. Suppose I want to create an addon for the [Bathhouse](/windhelm/interiors/western/bathhouse.md) and one of the [Meadhall Apartments](/windhelm/interiors/western/apartments.md). Suppose the bathhouse is owned and managed by NPCs Alice and Bob, but they hire a worker called Carter who lives in that apartment. Alice and Bob have daily schedules that mostly revolves around the bathhouse itself. Carter however lives at the apartment and only shows up at the bathhouse during certain hours.
+Here's an example. Suppose I want to create an addon for the [Bathhouse](/windhelm/details/western/bathhouse.md) and one of the [Meadhall Apartments](/windhelm/details/western/apartments.md). Suppose the bathhouse is owned and managed by NPCs Alice and Bob, but they hire a worker called Carter who lives in that apartment. Alice and Bob have daily schedules that mostly revolves around the bathhouse itself. Carter however lives at the apartment and only shows up at the bathhouse during certain hours.
 
 I can do all this in a single addon, or I can split it into two separate addons:
 
