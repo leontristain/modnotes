@@ -61,7 +61,7 @@ For example, if you feel the need to put an idle marker somewhere that the exist
 
 Another example, if you want to add a market stall into one of the empty squares that look like it should be a market, but don't feel comfortable putting a stall there yourself due to potential conflict with another addon, let me know. I will try to figure something out. I may make the decision to put it directly into the base mod, or to start creating a base market addon that will satisfy your needs.
 
-Another example, if you feel very strongly about a particular creative decision in the base mod that could be vastly improved, then let's chat. I may already agree with you, or I may be convinced by your arguments, in which case I will handle the work myself in the base mod.
+Another example, if you feel very strongly about a particular creative decision in the base mod that could be vastly improved, then let's chat. I may already agree with you, or I may be convinced by your arguments. If so, I will put it on my [list of future work](/windhelm/upcoming.md) to get to.
 
 And if all else fails, you are always free to create a traditional patch or even fork my base mod. My permissions are fully open so you can do anything. Though if you do patch or fork my mod then know that you are taking up future maintenance responsibility for your patch/forks.
 
