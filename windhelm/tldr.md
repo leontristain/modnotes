@@ -92,6 +92,9 @@ View of Palace of the Kings from the stairs that leads up to the arena.
 
 ## Quality and Vanilla Fixups
 
+![](/windhelm/pics/fixupsbefore.png?raw=true "Before Fixups")
+![](/windhelm/pics/fixupsafter.png?raw=true "After Fixups")
+
 Vanilla Windhelm has a lot of things that were basically broken, such as:
 
 * Lots of landscapes disabled or missing in cells too close to be covered by LODs.
