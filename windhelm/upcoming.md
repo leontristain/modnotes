@@ -7,17 +7,18 @@
 There are remaining bugs and quality issues that I will continue to address. These may include:
 
 * Many structures could be tweaked to look better
+* Need to fix small cosmetic and gameplay issues, such as imprecisely moved objects that hover above ground, nooks and crannies that player could get into but could not get out, etc...
 * More standin equivalence between Tamriel and Windhelm worldspaces
 * Further occlusion planes improvement
 * Mark objects properly as snow so that things like footsteps show up and sound right.
 * Lighting pass for exterior light sources and windows
 * Compatibility pass with mods like Frostfall (i.e. ensure all fire sources work as warmth etc...)
-* Better manage LODs
-* Sometimes when you are sufficiently far away, with certain snow shaders, snow from objects "behind" other objects end up popping out from underneath. This will be addressed by removing the "underneath" objects when they don't matter, and replacing them with snowless versions when they do matter.
+* Issue related to LODs (or lack thereof)
+* Snow shader shenanigans (usually only an issue when you are far away)
 * Cleaning out redundant and unused objects that have accumulated over time.
 * Identify and cleaning up any accidental vanilla record changes that for some reason can't be cleaned as ITMs (like maybe I accidentally moved it by a pixel and now it's no longer perfectly identical).
 
-### Beacon of Windhelm Using Lighthouse Structure
+### Beacon of Windhelm Lighthouse Structure
 
 The current "Beacon of Windhelm" is a simple giant camp bonfire. Following some feedback from folks on NexusMods, I have decided that I will change it to a lighthouse beacon structure. An existing Frostflow Lighthouse nif can be retextured using Windhelm/Nordic textures, and its size should fit nicely.
 
@@ -27,7 +28,7 @@ The northern district bonfire is perhaps a tad too large. Perhaps a smaller bonf
 
 ### Northeast Gatehouse Portcullis And Murder Holes
 
-The [Northeast Gatehouse](/windhelm/details/northeast/gatehouse.md) has a fairly large space underneath the gate. This could use a portcullis and some murder holes which may make Shadiversity fans a bit happier. Though the vanilla portcullis nif is too small for this purpose, maybe I can find some witcher nifs for it. Murder holes can probably be made out of some of those windows.
+The [Northeast Gatehouse](/windhelm/details/northeast/gatehouse.md) has a fairly large space underneath the gate. This could use a portcullis and some murder holes which may make Shadiversity fans a bit happier. Though the vanilla portcullis nif is too small for this purpose, maybe I can find some witcher nifs for it. Murder holes can probably be made out of some of those windows. Of course it will all just be for appearances and nothing is expected to actually be functional.
 
 ### Windswept Manor Balcony Railing
 
@@ -79,7 +80,7 @@ I do not plan to eventually work on an Open Cities patch.
 
 I personally do not use Open Cities Skyrim and not a fan of the idea in general. I think throwing everything into one worldspace makes compatibility and large modlists a harder problem for folks to solve, and my personal view is that Skyrim could use _more_ loading doors and separated spaces. Separate spaces help with modularity and confining the scope of issues. It can also be advantageous in that the inside can be bigger or different from the outside and still allow suspension of disbelief.
 
-Though, I do fully recognize above views as personal. That said, as you can clearly see here there are tons of other work to do, so with these as my personal views, I naturally have less motivation to work on one, and thus I will be prioritizing an OCS patch at the very bottom, which likely means I don't expect to ever get to it.
+Though, I do fully recognize above views as personal. That said, as you can clearly see here there are tons of other work to do, so with these as my personal views, I naturally have less motivation to work on an OCS patch, and thus I will be prioritizing an OCS patch at the very bottom, which likely means I don't expect to ever get to it.
 
 That said, anyone else is completely free to work on an OCS patch. More choices is always better than less choices.
 

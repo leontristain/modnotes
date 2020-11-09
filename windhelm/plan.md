@@ -53,6 +53,16 @@ And if I don't personally agree, I will definitely at least hear you out, and gi
 
 At that point, you're still free to create a traditional patch for my base mod to change it to your liking, or even fork my base mod. It's totally up to you. Though at that point, continuous maintenance, compatibility with addons, and updates, are also up to you.
 
+## Is Windswept Manor Commons Part Of The Base Mod?
+
+[Windswept Manor](/windhelm/details/windswept/main.md) is the massive house in the Western District that is built into the mountains. I originally intended for it to be a player house, but got the feedback that the entire thing is far too large to be a single player house. We then discussed the issue and decided that it could have a cool back story involving a foolish Thane who once tried to build a house bigger than the Jarl's, and then later fell into financial ruin and couldn't pay his debts. The bank then forced the house to be subdivided into multiple units, leaving only the top floor being the actual thane residence.
+
+Thus, what we currently have is that, when you enter Windswept Manor, you enter into the [Windswept Manor Commons](/windhelm/details/windswept/commons.md). This area is public space, and contains many doors that lead into individual interior spaces. The "commons" is already built out in the base mod (but lacking in clutter and decorations like much of the rest of the expansion). It's fully navmeshed, and I am currently treating it as part of the city layout / "infrastructure". This means going forward, I will include Windswept Manor Commons in potential base mod improvements and updates.
+
+Thus, I am expecting folks to work on individual subdivisions or interiors further within Windswept Manor Commons, but treating Windswept Manor Commons the same as they treat outside stuff - additive decorations and markers are great, but don't touch door links and don't touch navmesh, etc...
+
+That being said, if you have an absolute killer idea that requires completely re-doing and replacing Windswept Manor Commons, I think you can still feel free to do that. You can, for example, relocate the Windswept Manor Commons door (to the outside world) into your own cell, and go from there. All this will mean is that your addon will be incompatible with any other addon that tries to integrate into the existing Windswept Manor, that's all.
+
 ## Concerns Regarding Dependencies Between Addons
 
 Some addons may naturally depend on other addons.
