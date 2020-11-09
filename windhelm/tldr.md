@@ -92,9 +92,6 @@ View of Palace of the Kings from the stairs that leads up to the arena.
 
 ## Quality and Vanilla Fixups
 
-![](/windhelm/pics/fixupsbefore.png?raw=true "Before Fixups")
-![](/windhelm/pics/fixupsafter.png?raw=true "After Fixups")
-
 Vanilla Windhelm has a lot of things that were basically broken, such as:
 
 * Lots of landscapes disabled or missing in cells too close to be covered by LODs.
@@ -102,11 +99,15 @@ Vanilla Windhelm has a lot of things that were basically broken, such as:
 * Occlusion boxes for certain buildings set too high, resulting in objects popping in and out of view when you walk close to the building's roof in certain angles.
 * Lots of vanilla building nifs, mostly in the Gray Quarters, having huge, gaping holes that show obvious empty interiors when viewed from above.
 
-None of them are noticeable if you play a purely vanilla game and view things from purely vanilla view angles. However the moment you start flying (or in the case for this mod, walking along the wallwalks/new districts), you'll see and experience them.
+None of them are noticeable if you play a purely vanilla game and view things from purely vanilla view angles. However the moment you start flying (or in the case for this mod, walking along the wallwalks/new districts), you'll see and experience them. The following image shows some of these issues.
+
+![](/windhelm/pics/fixupsbefore.png?raw=true "Before Fixups")
 
 Thus, this mod fixes them up. This means the visuals should be wholesome from wherever inside the city. Objects outside the city walls will still be lacking in detail and fairly primitive, but at least the landscape will be smooth and the large structures will be there, which provide a good illusion of what outside actually looks like.
 
-In the Tamriel worldspace, new standin structures (walls, towers, etc...) were added to ensure the Windhelm city look more or less the same outside as it does inside. For technical reasons, they won't look 100% the same, but unless you squint your eyes and look for it, you probably won't notice.
+In the Tamriel worldspace, new standin structures (walls, towers, etc...) were added to ensure the Windhelm city look more or less the same outside as it does inside. For technical reasons, they won't look 100% the same, but unless you squint your eyes and look for it, you probably won't notice. The following image shows some of these issues being fixed up in the mod.
+
+![](/windhelm/pics/fixupsafter.png?raw=true "After Fixups")
 
 Additional occlusion planes were added along the wall partitions to reduce Windhelm Worldspace draw calls and keep performance reasonable.
 
