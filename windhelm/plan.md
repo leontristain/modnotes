@@ -73,7 +73,7 @@ Thus, what we currently have is that, when you enter Windswept Manor, you enter 
 
 Thus, I am expecting folks to work on individual subdivisions or interiors further within Windswept Manor Commons, but treating Windswept Manor Commons the same as outside stuff - additive decorations and markers are great, but don't touch door links and don't touch navmesh, etc...
 
-That being said, if you have an absolute killer idea that requires completely re-doing and replacing Windswept Manor Commons, I think you can still feel free to do that. You can, for example, relocate the Windswept Manor Commons door (to the outside world) into your own cell, and go from there. All this will mean is that your addon will be incompatible with any other addon that tries to integrate into the existing Windswept Manor, that's all.
+That being said, if you have an absolute killer idea that requires completely re-doing and replacing Windswept Manor Commons, I think you can still feel free to do that. You can, for example, relocate the Windswept Manor Commons interior door into your own cell, and go from there. All this will mean is that your addon will be incompatible with any other addon that tries to integrate into the existing Windswept Manor, that's all.
 
 ## Concerns Regarding Dependencies Between Addons
 
