@@ -30,7 +30,7 @@ This "base mod + addon" scheme has the following advantages:
 * The base mod provides a common platform for addon authors to work on.
 * The base mod can take up the responsibility of patching with other Windhelm overhaul mods like JK's/DoS, and addons should be largely isolated from these changes.
 * The base mod can progress in parallel with addons. I will do the best I can at maintaining backwards compatibility with base mod updates.
-* Addons are self-contained and isolated from each other, minimizing conflicts and patching needs between addons.
+* Addons are self-contained and isolated from each other, minimizing conflicts and patching needs between addons (as long as [guidelines are followed](/windhelm/guidelines.md))
 * Addons are modular and composable, allowing for combinations of addons to be curated together into "addon packs" or simply be picked and chosen by users themselves.
 * The overall scheme should end up giving addon authors a lot of flexibility. An addon could be of any size, so novice mod authors could pick up a small beginner project while highly interested prolific authors can attempt something really big and complex.
 * The overall scheme should end up giving addon authors a lot of creative freedom to work on their own vision. There's no need to conform to a singular vision, and multiple addons that implement the same building could each have their own audience (see [Concerns Regarding Overlapping Content](#concerns-regarding-overlapping-content)).
