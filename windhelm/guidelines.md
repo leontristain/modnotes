@@ -7,7 +7,7 @@
     - [Please remember to add signs etc to the Windhelm Worldspace with your addon](#please-remember-to-add-signs-etc-to-the-windhelm-worldspace-with-your-addon)
   - [When Working On Interior Cells](#when-working-on-interior-cells)
     - [Please use an existing interior cell stub whenever possible](#please-use-an-existing-interior-cell-stub-whenever-possible)
-    - [ABSOLUTELY reuse existing interior doors](#absolutely-reuse-existing-interior-doors)
+    - [ALWAYS reuse existing interior doors](#always-reuse-existing-interior-doors)
   - [When Working On Windhelm Worldspace Stuff](#when-working-on-windhelm-worldspace-stuff)
     - [Try to avoid large-scale visual changes to vanilla areas](#try-to-avoid-large-scale-visual-changes-to-vanilla-areas)
     - [Please try to keep all your changes purely additive](#please-try-to-keep-all-your-changes-purely-additive)
@@ -75,7 +75,7 @@ In that scenario, you might still be fine because the ESPFE limitation is not an
 
 Though, avoid creating new cells until it's necessary is still best.
 
-### ABSOLUTELY reuse existing interior doors
+### ALWAYS reuse existing interior doors
 
 This one is absolutely important.
 
