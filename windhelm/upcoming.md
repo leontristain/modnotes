@@ -101,7 +101,7 @@ The base mod restores the arena structure but doesn't touch any playable content
 
 ### A Note On Open Cities Skyrim
 
-I do not plan to eventually work on an Open Cities patch.
+I do not plan to eventually work on an Open Cities patch, or, more accurately, an OCS patch is very low priority for me and I don't expect to ever get to it.
 
 I personally do not use Open Cities Skyrim and not a fan of the idea in general. I think throwing everything into one worldspace makes compatibility and large modlists a harder problem for folks to solve. My personal view is also not only that loading doors don't bother me, but that Skyrim could use _more_ loading doors and separated spaces. Separate spaces help with modularity and confining the scope of issues. It can also be advantageous in that the inside can be bigger or different from the outside and still allow suspension of disbelief.
 
