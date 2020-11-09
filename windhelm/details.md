@@ -1,5 +1,15 @@
 # Details Of Expanded Windhelm City
 
+![](/windhelm/pics/overview-buildingsanddoors.png?raw=true)
+
+The following contains a list of intended landmarks, buildings, and interiors.
+
+Note that, none of the interiors are implemented yet, and I am asking for interested contributors to create addons for these interiors. Since I am also giving contributors the freedom to realize their own creative vision, it should be understood that "what these buildings are" is not set in stone.
+
+The names and purposes I have listed below (and in the above picture) are all guidelines and what I "intended" them to be. Addon authors are free to take them to completely different directions.
+
+Also please note that the names I am currently labeling them are _generic_ names intended to make it easy for addon authors to figure out which is which. Once implemented, they would likely take on a much more fitting and less generic name. For example, "Northeast District Pub" should probably end up with a proper pub name like "The Laughing Hawk" or something like that. "Western District Temple" could probably end up being named "Temple of Kyne" or "Temple of the Nine Divines". You get the idea.
+
 * [Vanilla Areas](/windhelm/details/vanilla/main.md)
   * [Notable Vanilla Area Edits](/windhelm/details/vanilla/vanillaedits.md)
   * [Windhelm Bakery](/windhelm/details/vanilla/bakery.md)
