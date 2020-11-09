@@ -117,7 +117,7 @@ The mod is fully navmeshed, with all doors linked to navmesh door triangles.
 
 In the Tamriel Worldspace, standin structures (walls, towers, etc...) have been added to make Windhelm look outside the same it looks inside. As a result, the newly expanded areas cover good portions of Tamriel exterior navmesh.
 
-These were entirely dealt with using NAVCUT boxes, which means other than the new northeast gate's door triangle, no navmesh records in the Tamriel worldspace were touched. Thus, this mod should play well with any other exterior expansion mod that does not directly conflict in object placement. Their navmesh changes should seamlessly combine with the NAVCUT boxes used in this mod, resulting in the best of both worlds, and keeping any need for patching as simple a problem as possible.
+These were entirely dealt with using NAVCUT boxes, which means other than the new northeast gate's door triangle, no navmesh records in the Tamriel worldspace were touched. Thus, this mod should play well with any other exterior expansion mod that does not directly conflict in object placement. Their navmesh changes should seamlessly combine with the NAVCUT boxes added in this mod, resulting in the best of both worlds, and keeping any need for patching as simple a problem as possible.
 
 Areas directly outside the southern walls and dock gate were left alone, in order to minimize compatibility issues with exterior expansion mods such as Windhelm Bridge Overhaul, Windhelm Exterior Altered, and Windhelm Dock Pathways. I am not aware of any exterior expansion mods that put things on the west side and northeast side of the city, and thus those are the only directions I expanded the city towards.
 
