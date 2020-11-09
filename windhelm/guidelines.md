@@ -65,15 +65,17 @@ Anyway, this is just a reminder for stuff that might be easy to forget. That's a
 
 ### Please use an existing interior cell stub whenever possible
 
+This really only applies to mods with the potential to be ESPFE, though I want to suggest it's good practice to do anyway.
+
 The base mod provides interior cell stubs for all the available but unimplemented buildings. These stub cells should have names starting with `aaaltr` and labeled descriptively. Please, as much as possible, avoid creating new cells in your addon plugin and simply build out the interior from one of the existing interior stub cells.
 
 This is important because ESPFEs have a limitation where new cells created in an ESPFE would break should another plugin ever override a record within, so creating new cells in ESPFEs is generally not the best idea.
 
-That said, sometimes creating new cells may be unavoidable. For example, suppose in my base mod I provided a single stub cell with multiple doors, but you want to have the doors go into different, separate cells, then you would need to create the additional cells.
+Sometimes creating new cells may be unavoidable. For example, suppose in my base mod I provided a single stub cell with multiple doors, but you want to have the doors go into different, separate cells, then you would need to create the additional cells.
 
 In that scenario, you might still be fine because the ESPFE limitation is not an immediate issue for as long as the addon you're creating won't have further patches that want to override something in its interior, and it would become a non-issue the moment it gets included in an addon pack.
 
-Though, avoid creating new cells until it's necessary is still best.
+Though, as long as you can reuse the stub provided in the base mod, why not just do that and never worry about any of the above?
 
 ### ALWAYS reuse existing interior doors
 
