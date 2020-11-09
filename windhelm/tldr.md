@@ -8,7 +8,7 @@ Also here are some complementary [anticipated future work](/windhelm/upcoming.md
 
 ## The Big Picture
 
-This mod is an City Expansion mod for Windhelm. The overall expansion looks like this:
+This mod is a city expansion mod for Windhelm. The overall expansion looks like this:
 
 ![](/windhelm/pics/overview.png?raw=true "Raw Overview")
 
