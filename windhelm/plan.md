@@ -35,7 +35,7 @@ This "base mod + addon" scheme has the following advantages:
 * The overall scheme should end up giving addon authors a lot of flexibility. An addon could be of any size, so novice mod authors could pick up a small beginner project while highly interested prolific authors can attempt something really big and complex.
 * The overall scheme should end up giving addon authors a lot of creative freedom to work on their own vision. There's no need to conform to a singular vision, and multiple addons that implement the same building could each have their own audience (see [Concerns Regarding Overlapping Content](#concerns-regarding-overlapping-content)).
 
-When addons are complete, they are expected to be published individually, and eventually merged into an "addon pack", that when installed together with my base mod, will represent the final, complete product. As for why the need for eventual addon packs? Please see [Concerns Regarding Plugin Count](#concerns-regarding-plugin-count).
+When addons are complete, they are expected to be published independently, and eventually merged into an "addon pack", that when installed together with my base mod, will represent the final, complete product. As for why the need for eventual addon packs? Please see [Concerns Regarding Plugin Count](#concerns-regarding-plugin-count).
 
 This means I am encouraging and hoping for contributors to provide open permissions for myself or others to include their creative work in any "addon packs" I or others may curate eventually. Of course I cannot require this, but I do highly and heavily encourage it.
 
