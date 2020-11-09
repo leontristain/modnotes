@@ -117,3 +117,5 @@ To avoid a patch for your addon, it's best to choose a location that works both 
 
 * Locations squarely within newly expanded areas should be perfectly safe, since other mods would not have modified those places. If you are working on clutter/decoration, you'll likely be working in these newly expanded areas so you're probably fine.
 * For locations close enough to vanilla areas that other mods may touch and a patch may result in a different space, places "in the middle of the road" might be safer than places right next to a corner or a wall, since decorations are likely to line up against walls. If you're working close to or in vanilla areas, you're probably placing down things like markers, so perhaps "don't put them too close to edges" is a good idea?
+
+In the end, please use your best judgment now that you know what I mean.
