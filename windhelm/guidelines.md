@@ -107,15 +107,4 @@ It's important for you to not touch navmesh records themselves, since then I am 
 
 Navmesh records are messy and complicated records, and they make compatibility patches a nightmare. To make navmesh conflicts as easy and simple to resolve as possible, the base mod has to take full responsibility of all the navmesh. Additionally, exterior doors are directly coupled with navmesh because the navmesh record contain door references, and the door record contain navmesh triangle references. Thus both need to be fully controlled by the base mod.
 
-As long as you don't touch exterior navmesh and doors, I can handle patching with mods like JK's in the base mod, and your addon should remain compatible without anything extra. There may still be a very small chance that perhaps some object you placed is not in a good location post-patch, but that's nothing that can't be addressed by simply choosing a better location that works for both worlds (see next guideline). If you touch navmesh, the need for more patches is inevitable.
-
-### Please try to choose object placement locations with an eye for potential compatibility issues.
-
-I will eventually create patches between the base mod and mods like JK's. When that happens, I expect 95% of Windhelm will remain the same from a functional perspective, but at the border between vanilla areas and expanded areas where conflicts are resolved, the resulting space may be slightly different, such that when objects are placed in some places, it might end up being a bad place post-patch.
-
-To avoid a patch for your addon, it's best to choose a location that works both pre-patch and post-patch. This can be tricky, but the following may be good to keep in mind.
-
-* Locations squarely within newly expanded areas should be perfectly safe, since other mods would not have modified those places. If you are working on clutter/decoration, you'll likely be working in these newly expanded areas so you're probably fine.
-* For locations close enough to vanilla areas that other mods may touch and a patch may result in a different space, places "in the middle of the road" might be safer than places right next to a corner or a wall, since decorations are likely to line up against walls. If you're working close to or in vanilla areas, you're probably placing down things like markers, so perhaps "don't put them too close to edges" is a good idea?
-
-In the end, please use your best judgment now that you know what I mean.
+As long as you don't touch exterior navmesh and doors, I can handle patching with mods like JK's in the base mod, and your addon should remain compatible without anything extra. There may still be a very small chance that perhaps some object you placed is not in a good location post-patch, but that's nothing that can't be addressed by simply choosing a better location that works for both worlds. If you touch navmesh, the need for more patches is inevitable.
