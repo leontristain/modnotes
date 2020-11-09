@@ -43,7 +43,7 @@ There are remaining bugs and quality issues in the base mod that I will continue
 
 ### Beacon of Windhelm Lighthouse Structure
 
-The current "Beacon of Windhelm" is a simple giant camp bonfire. Following some feedback from folks on NexusMods, I have decided that I will change it to a lighthouse beacon structure. An existing Frostflow Lighthouse nif can be retextured using Windhelm/Nordic textures, and its size should fit nicely.
+The current "Beacon of Windhelm" is a simple giant camp bonfire. Following some feedback and discussion from folks on NexusMods, we have decided that a lighthouse beacon structure would be better. An existing Frostflow Lighthouse nif can be retextured using Windhelm/Nordic textures, and its size should fit nicely.
 
 ### Make Northern District Bonfire Smaller
 
