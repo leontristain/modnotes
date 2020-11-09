@@ -48,4 +48,4 @@ If you are interested to contribute, feel free to hit me up and we can have a ch
 
 I hope to have enough folks interested with creating interiors, NPCs, quests, clutter, etc... as addons. Again please see [Community Effort Plan](/windhelm/plan.md). Meanwhile, I will gradually work on the base mod. [This page contains a listing of anticipated future work for the base mod](windhelm/upcoming.md).
 
-I expect my own progress on the base mod to be slow due to real life and other priorities. Hopefully the community can help make some progress on the content front, and we'll have this in a playable state. I will be maintaining online presence, answering questions, and helping out addon authors to what degree I can.
+I expect my own progress on the base mod to be slow due to real life and other priorities. Hopefully the community can help make some progress on the content front, and we'll have this in a playable state. In addition to working on the base mod, I will also be maintaining online presence, answering questions, and helping out addon authors to what degree I can.
