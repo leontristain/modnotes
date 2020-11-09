@@ -10,8 +10,6 @@
 
 ## Overview
 
-For a quick, basic walk-through of mod details (with lots of pretty pictures), please read . For details about each location in the expanded city, [look here](/windhelm/details.md).
-
 **Epic Windhelm Expansion** is my attempt at a Windhelm expansion mod for Skyrim Special Edition. As far as I know, in concept this is the largest and most "expansive" city expansion mod for Windhelm that has ever been attempted. Broadly speaking, **Epic Windhelm Expansion** tries to do the following:
 
 * Expands Windhelm's city presence to the west, nort, and northeast directions, resulting in 3 entirely new city districts.
