@@ -59,7 +59,7 @@ At that point, you're still free to create a traditional patch for my base mod t
 
 Thus, what we currently have is that, when you enter Windswept Manor, you enter into the [Windswept Manor Commons](/windhelm/details/windswept/commons.md). This area is public space, and contains many doors that lead into individual interior spaces. The "commons" is already built out in the base mod (but lacking in clutter and decorations like much of the rest of the expansion). It's fully navmeshed, and I am currently treating it as part of the city layout / "infrastructure". This means going forward, I will include Windswept Manor Commons in potential base mod improvements and updates.
 
-Thus, I am expecting folks to work on individual subdivisions or interiors further within Windswept Manor Commons, but treating Windswept Manor Commons the same as they treat outside stuff - additive decorations and markers are great, but don't touch door links and don't touch navmesh, etc...
+Thus, I am expecting folks to work on individual subdivisions or interiors further within Windswept Manor Commons, but treating Windswept Manor Commons the same as outside stuff - additive decorations and markers are great, but don't touch door links and don't touch navmesh, etc...
 
 That being said, if you have an absolute killer idea that requires completely re-doing and replacing Windswept Manor Commons, I think you can still feel free to do that. You can, for example, relocate the Windswept Manor Commons door (to the outside world) into your own cell, and go from there. All this will mean is that your addon will be incompatible with any other addon that tries to integrate into the existing Windswept Manor, that's all.
 
