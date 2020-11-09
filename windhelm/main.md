@@ -16,7 +16,7 @@
 
 * Implemented in ways that minimize compatibility concerns and maximize potential for further exterior expansions.
 
-For a quick, basic walk-through of mod details (with lots of pretty pictures), please read [this overview](/windhelm/tldr.md).
+For a quick, basic walk-through of mod details (with lots of pretty pictures), please read [this overview](/windhelm/tldr.md). For details about each location in the expanded city, [look here](/windhelm/details.md).
 
 ## Current State Of The Mod
 
@@ -42,7 +42,7 @@ Therefore, I am asking for folks to help. I am doing this in two ways. The first
 
 2. I am soliciting interested folks to help out with interiors, NPCs, quests, clutter, etc... I have put in a lot of effort in fleshing out the current state of the mod as a "base platform", such that contributors can build "addons" upon it, to be released independently and eventually curated into "addon packs". The "base platform" handles all exterior navmesh and door links, and provides stub interior cells. For details, please see the [Community Effort Plan](/windhelm/plan.md)
 
-If you are interested to contribute, feel free to hit me up and we can have a chat. I maintain presence on NexusMods, reddit, and here on github.
+If you are interested to contribute, feel free to hit me up and we can have a chat. I maintain presence on NexusMods, reddit, and here on github. You are free to begin whenever and however. The [Community Effort Plan](/windhelm/plan.md) should explain how I'm expecting contributions to play out. When you create addon mods, please follow [These Guidelines](/windhelm/guidelines.md).
 
 # Going Forward
 
