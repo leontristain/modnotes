@@ -12,6 +12,7 @@ There are remaining bugs and quality issues that I will continue to address. The
 * Further occlusion planes improvement
 * Mark objects properly as snow so that things like footsteps show up and sound right.
 * Lighting pass for exterior light sources and windows
+* Quality check on door openings - add black planes behind them where necessary.
 * Compatibility pass with mods like Frostfall (i.e. ensure all fire sources work as warmth etc...)
 * Issue related to LODs (or lack thereof)
 * Snow shader shenanigans (usually only an issue when you are far away)
