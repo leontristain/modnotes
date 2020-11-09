@@ -10,7 +10,7 @@
   - [Eventual Patches](#eventual-patches)
     - [Windhelm Worldspace](#windhelm-worldspace)
     - [Tamriel Worldspace](#tamriel-worldspace)
-    - [Currently Unknown](#currently-unknown)
+    - [Fortified Windhelm, Capital Windhelm Edition (when they come out)](#fortified-windhelm-capital-windhelm-edition-when-they-come-out)
     - [USSEP](#ussep)
     - [Faction: Pit Fighter](#faction-pit-fighter)
     - [A Note On Open Cities Skyrim](#a-note-on-open-cities-skyrim)
@@ -83,7 +83,7 @@ Anyway, at some point there will probably be a pass to address these. Until then
 * Windhelm Exterior Altered
 * Windhelm Docks Pathways
 
-### Currently Unknown
+### Fortified Windhelm, Capital Windhelm Edition (when they come out)
 
 I've been told that the author of [Fortified Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/40094) is working on a [Fortified Windhelm](https://www.nexusmods.com/skyrimspecialedition/images/84030) mod. This mod is not yet released but there are preview screenshots with really great looking battlements. When this mod is out I will be attempting a patch to see if we can get this mod's interior expansion and wallwalks but with that mod's battlements, gate, and bridge. Wouldn't that be amazing?
 
