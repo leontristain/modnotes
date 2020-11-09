@@ -47,6 +47,8 @@ If you turned one of the buildings into a shop, you should also add a sign for i
 
 The placement of the sign object should be purely additive, and shouldn't touch any navmesh or exterior doors, so it should be perfectly fine to do so.
 
+You might also consider adding exterior decor features that specifically depends on the building's function. For example, if you are implementing the Windhelm Bakery Building as an actual bakery, you might want to add smokestacks to the roof. If you are implementing the Windhelm Bathhouse interior as an actual bathhouse, you might want to add steam pipes releasing steam into that cozy alleyway the bathhouse is on.
+
 ## When Working On Interior Cells
 
 ### Please use an existing interior cell stub whenever possible
