@@ -27,7 +27,7 @@ This "base mod + addon" scheme has the following advantages:
 
 When addons are complete, they are expected to be published individually, and eventually merged into an "addon pack", that when installed together with my base mod, will represent the final, complete product.
 
-This means I am expecting contributors to provide open permissions for myself or others to include their creative work in any "addon packs" I or others may curate eventually. Of course I cannot require this, but I do highly and heavily encourage it.
+This means I am encouraging and hoping for contributors to provide open permissions for myself or others to include their creative work in any "addon packs" I or others may curate eventually. Of course I cannot require this, but I do highly and heavily encourage it.
 
 ## What Can Addon Authors Work On?
 
