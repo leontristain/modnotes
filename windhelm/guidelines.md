@@ -39,15 +39,11 @@ Now, if someone else also did the same thing but for the Western District's grou
 
 Granted, what constitutes "an area" is kind of vague, so in the end it's your call, but you get what I mean.
 
-### Please remember to add signs to the Windhelm Worldspace to match your content
+### Please remember to add signs etc to the Windhelm Worldspace with your addon
 
-This is just a reminder for something that I think is easy to forget.
+Suppose you turned one of the buildings into a shop, don't forget to add a sign for it in the Windhelm worldspace next to the door. If you're implementing that bakery, you might want to consider adding smokestacks and having smoke come out of it. If you're implementing that bathhouse, perhaps a good idea is to add some pipes that comes out somewhere near the door to let out steam.
 
-If you turned one of the buildings into a shop, you should also add a sign for it in the Windhelm worldspace just outside the door. This should be the responsibility of the addon because the sign should reflect what the addon turned the building into, which can easily differ from addon to addon.
-
-The placement of the sign object should be purely additive, and shouldn't touch any navmesh or exterior doors, so it should be perfectly fine to do so.
-
-You might also consider adding exterior decor features that specifically depends on the building's function. For example, if you are implementing the Windhelm Bakery Building as an actual bakery, you might want to add smokestacks to the roof. If you are implementing the Windhelm Bathhouse interior as an actual bathhouse, you might want to add steam pipes releasing steam into that cozy alleyway the bathhouse is on.
+Anyway, this is just a reminder for stuff that might be easy to forget. That's all.
 
 ## When Working On Interior Cells
 
