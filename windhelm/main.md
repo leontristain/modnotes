@@ -44,7 +44,7 @@ Therefore, I am asking for folks to help. I am doing this in two ways. The first
 
 If you are interested to contribute, feel free to hit me up and we can have a chat. I maintain presence on NexusMods, reddit, and here on github. You are free to begin whenever and however. The [Community Effort Plan](/windhelm/plan.md) should explain how I'm expecting contributions to play out. When you create addon mods, please follow [These Guidelines](/windhelm/guidelines.md).
 
-# Going Forward
+## Going Forward
 
 I hope to have enough folks interested with creating interiors, NPCs, quests, clutter, etc... as addons. Again please see [Community Effort Plan](/windhelm/plan.md). Meanwhile, I will gradually work on the base mod. [This page contains a listing of anticipated future work for the base mod](windhelm/upcoming.md).
 
