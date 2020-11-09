@@ -16,7 +16,7 @@
 
 * Implemented in ways that minimize compatibility concerns and maximize potential for further exterior expansions.
 
-For a quick, basic walk-through of mod details (with lots of pretty pictures), please read [this overview](/windhelm/tldr.md). For details about each location in the expanded city, [look here](/windhelm/details.md).
+For a quick, basic walk-through of mod details (with lots of pretty pictures), please read [this overview](/windhelm/overview.md). For details about each location in the expanded city, [look here](/windhelm/details.md).
 
 ## Current State Of The Mod
 

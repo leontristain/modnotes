@@ -4,7 +4,7 @@
 
 ### Continuous Bug Fixes And Quality Improvements
 
-There are remaining bugs and quality issues that I will continue to address. These may include:
+There are remaining bugs and quality issues in the base mod that I will continue to address and improve. These may include:
 
 * Many structures could be tweaked to look better
 * Need to fix small cosmetic and gameplay issues, such as imprecisely moved objects that hover above ground, nooks and crannies that player could get into but could not get out, etc...
@@ -12,6 +12,7 @@ There are remaining bugs and quality issues that I will continue to address. The
 * Further occlusion planes improvement
 * Mark objects properly as snow so that things like footsteps show up and sound right.
 * Lighting pass for exterior light sources and windows
+* Idle markers where they make sense
 * Quality check on door openings - add black planes behind them where necessary.
 * Compatibility pass with mods like Frostfall (i.e. ensure all fire sources work as warmth etc...)
 * Issue related to LODs (or lack thereof)

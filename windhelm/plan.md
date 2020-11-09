@@ -41,17 +41,19 @@ Barring logistical issues (see [Concerns Regarding Dependencies Between Addons](
 
 Basically, you are free to work on anything. All I ask is that you follow [these guidelines](/windhelm/guidelines.md). I also encourage you to keep your addons modular and self-contained. For example, if you are implementing 2 interiors, see if you can organize the work into two separate addons, as that would be preferred. (related: see [Concerns Regarding Plugin Count](#concerns-regarding-plugin-count))
 
-For interested folks, a good starting point is to read [the overview](/windhelm/tldr.md) and then browse through [what buildings are available](/windhelm/details.md), maybe one or two of them would spark your imagination and interest. When you start, please feel free to let me know what you'll be taking a stab at, so that I am informed on the overall state of the community effort.
+For interested folks, a good starting point is to read [the overview](/windhelm/overview.md) and then browse through [what buildings are available](/windhelm/details.md), maybe one or two of them would spark your imagination and interest. When you start, please feel free to let me know what you'll be taking a stab at, so that I am informed on the overall state of the community effort.
 
-## What If I Want Something "Infrastructure-y" Changed?
+## What If I Want Something In The Base Mod Changed?
 
-If you are a contributor and you feel strongly about something "infrastructure-y" that I asked you not to touch, let's chat.
+If you are a contributor and you feel strongly about something "infrastructure-y" in the base mod that I asked you not to touch, let's chat. Also, if you feel like something you're about to add really should be in the base mod to be made available to everyone, let's also chat.
 
-Though I reserve my right to have final call on creative decisions in the "base mod", I could very well agree with your points or be convinced by your arguments. If I do, I will handle the work myself in the base mod.
+For example, if you feel the need to put an idle marker somewhere that the existing navmesh currently doesn't reach, please talk to me. I will be able to update the navmesh for you in the base mod.
 
-And if I don't personally agree, I will definitely at least hear you out, and give you my thoughts in detail, before letting you know that I won't be including it in the base mod.
+Another example, if you want to add a market stall into one of the empty squares that look like it should be a market, but don't feel comfortable putting a stall there yourself due to potential conflict with another addon, let me know. I will try to figure something out. I may make the decision to put it directly into the base mod, or to start creating a base market addon that will satisfy your needs.
 
-At that point, you're still free to create a traditional patch for my base mod to change it to your liking, or even fork my base mod. It's totally up to you. Though at that point, continuous maintenance, compatibility with addons, and updates, are also up to you.
+Another example, if you feel very strongly about a particular creative decision in the base mod that could be vastly improved, then let's chat. I may already agree with you, or I may be convinced by your arguments, in which case I will handle the work myself in the base mod.
+
+And if all else fails, you are always free to create a traditional patch or even fork my base mod. My permissions are fully open so you can do anything. Though if you do patch or fork my mod then know that you are taking up future maintenance responsibility for your patch/forks.
 
 ## Is Windswept Manor Commons Part Of The Base Mod?
 
@@ -79,7 +81,7 @@ First, addon authors are encouraged to release ESPFE (ESL-ified ESPs) plugins wh
 
 Second, multiple addons can be merged together into "addon packs". See [How Contributions Will Be Managed](#how-contributions-will-be-managed). Addon authors are expected to provide permissions for them to be curated into addon packs, in which case plugin count would become less of an issue.
 
-If your addon does not fit into the limit of an ESPFE, and you feel strongly about maintaining distribution control such that you don't want to provide permission to include into addon packs, then I think it's likely that you have created a large, extensive, and high-quality mod that took lots of time and effort. In that case, perhaps it is deserving of an ESP slot of its own, in the same way as, say, Morskom Estate deserves its own ESP slot in a modlist that overhauls Dawnstar, and Drengin's Blue Palace Terrace deserves its own ESP slot in a modlist that overhauls Solitude. Perhaps we can then say the additional ESP slot is no more an issue than what folks should already be used to.
+If your addon does not fit into the limit of an ESPFE, and you feel strongly about maintaining distribution control and don't want to provide permission to include into addon packs, then I think it's likely that you have created a large, extensive, and high-quality mod that took lots of time and effort. In that case, perhaps it is deserving of an ESP slot of its own, in the same way as, say, Morskom Estate deserves its own ESP slot in a modlist that overhauls Dawnstar, and Drengin's Blue Palace Terrace deserves its own ESP slot in a modlist that overhauls Solitude. Perhaps we can then say the additional ESP slot is no more an issue than what folks should already be used to.
 
 ## Concerns Regarding Overlapping Content
 
