@@ -18,7 +18,7 @@
 
 For a quick, basic walk-through of mod details (with lots of pretty pictures), please read [this overview](/windhelm/tldr.md).
 
-## What Is The Current State Of The Mod
+## Current State Of The Mod
 
 In the Windhelm Worldspace, the basic layout, structures, and building locations are finished. Vanilla fixups are complete. Windhelm worldspace has Tamriel worldspace standins for structures like Windhelm Bridge, and Tamriel worldspace has Windhelm worldspace standins for the expanded walls and new districts. All exteriors are fully navmeshed, and all doors are linked.
 
