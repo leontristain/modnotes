@@ -93,7 +93,9 @@ Currently, the base mod is roughly the same size inside as it is outside, so I b
 
 The base mod currently have a set of northern walls designed to protect enemies that try to attack from the north over the mountains. However, the walls are currently raised incredibly high to the point where they could be seen as a distracting eyesore from the rest of the city, and even then, they don't achieve sufficient height to believably prevent enemies from scaling the walls from that direction.
 
-I see the main issue here being the shape of the mountains to the north and a "valley" in-between two peaks from which enemies could believably march into to get to the walls.
+I see the main issue here being the shape of the mountains to the north and a "valley" in-between two peaks from which enemies could believably march into to get to the walls (circled below).
+
+![](/windhelm/pics/futuremountainchanges.png?raw=true)
 
 Thus, I think a better solution than to make ridiculously high walls, is to rework the mountains there. Add more big mountain rocks with extreme vertical slopes on both sides, and block off the "valley" with them. The result should be a highly effective natural barrier making the wall less necessary. No enemy would be able to lead large armies over such peaks, and view of that area from the city would look a lot more natural.
 
