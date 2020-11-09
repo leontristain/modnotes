@@ -1,3 +1,9 @@
+- [Epic Windhelm Expansion](#epic-windhelm-expansion)
+  - [Overview](#overview)
+  - [Current State Of The Mod](#current-state-of-the-mod)
+  - [Call For Help](#call-for-help)
+  - [Going Forward](#going-forward)
+
 # Epic Windhelm Expansion
 
 ![](/windhelm/pics/southwall.png?raw=true "An Epic Windhelm Expansion Mod")

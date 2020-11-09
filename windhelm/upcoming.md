@@ -1,3 +1,24 @@
+- [Anticipated Future Work](#anticipated-future-work)
+  - [Base Mod Work](#base-mod-work)
+    - [Continuous Bug Fixes And Quality Improvements](#continuous-bug-fixes-and-quality-improvements)
+    - [Beacon of Windhelm Lighthouse Structure](#beacon-of-windhelm-lighthouse-structure)
+    - [Make Northern District Bonfire Smaller](#make-northern-district-bonfire-smaller)
+    - [Northeast Gatehouse Portcullis And Murder Holes](#northeast-gatehouse-portcullis-and-murder-holes)
+    - [Windswept Manor Balcony Railing](#windswept-manor-balcony-railing)
+    - [Tamriel Worldspace Intruder Prevention](#tamriel-worldspace-intruder-prevention)
+    - [Civil War Compatibility](#civil-war-compatibility)
+  - [Eventual Patches](#eventual-patches)
+    - [Windhelm Worldspace](#windhelm-worldspace)
+    - [Tamriel Worldspace](#tamriel-worldspace)
+    - [Currently Unknown](#currently-unknown)
+    - [USSEP](#ussep)
+    - [Faction: Pit Fighter](#faction-pit-fighter)
+    - [A Note On Open Cities Skyrim](#a-note-on-open-cities-skyrim)
+  - [Work To Be Done As Separate ESPs](#work-to-be-done-as-separate-esps)
+    - [Mountain Rework North of Windhelm](#mountain-rework-north-of-windhelm)
+    - [Northeast Road to Winterhold](#northeast-road-to-winterhold)
+    - [Windhelm Dock Expansion](#windhelm-dock-expansion)
+
 # Anticipated Future Work
 
 ## Base Mod Work

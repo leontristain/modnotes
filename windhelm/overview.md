@@ -1,6 +1,12 @@
+- [Overview](#overview)
+  - [The Big Picture](#the-big-picture)
+  - [Beautiful Visuals](#beautiful-visuals)
+  - [Quality and Vanilla Fixups](#quality-and-vanilla-fixups)
+  - [Navmesh and Compatibility](#navmesh-and-compatibility)
+
 # Overview
 
-This is a document that lets you know what you get with this mod, complete with lots of pretty pictures.
+This is an overview document that lets you know what you get with this mod, complete with lots of pretty pictures.
 
 For details of each area, please refer to [this document](/windhelm/details.md).
 

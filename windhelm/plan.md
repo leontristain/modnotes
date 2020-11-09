@@ -1,3 +1,13 @@
+- [Community Effort Plan](#community-effort-plan)
+  - [What Remaining Work Are Left?](#what-remaining-work-are-left)
+  - [How Contributions Will Be Managed](#how-contributions-will-be-managed)
+  - [What Can Addon Authors Work On?](#what-can-addon-authors-work-on)
+  - [What If I Want Something In The Base Mod Changed?](#what-if-i-want-something-in-the-base-mod-changed)
+  - [Is Windswept Manor Commons Part Of The Base Mod?](#is-windswept-manor-commons-part-of-the-base-mod)
+  - [Concerns Regarding Dependencies Between Addons](#concerns-regarding-dependencies-between-addons)
+  - [Concerns Regarding Plugin Count](#concerns-regarding-plugin-count)
+  - [Concerns Regarding Overlapping Content](#concerns-regarding-overlapping-content)
+
 # Community Effort Plan
 
 ## What Remaining Work Are Left?
