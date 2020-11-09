@@ -59,7 +59,7 @@ The [Windswept Manor Suite](/windhelm/details/windswept/suite.md) has an awesome
 
 ### Tamriel Worldspace Intruder Prevention
 
-I imagine one reason vanilla Windhelm only _barely_ touches the mountainside with one of its corners, is because that design made it easy to prevent people from jumping into the city (and all those Tamriel worldspace building standins) from above the mountain. With my expansion more or less hugging the mountain, this becomes a legitimate quality concern. As it stands, if you climb to the mountain peak in Tamriel worldspace and jump into the city, you'll end up among the LOD chaos and get stuck. Any player can of course un-stuck themselves using various console tricks, but ideally we wouldn't have to do that.
+I imagine one reason vanilla Windhelm only _barely_ touches the mountainside with one of its corners, is because that design made it easy to prevent people from jumping into the city (and all those Tamriel worldspace building LODs) from above the mountain. With my expansion more or less hugging the mountain, this becomes a legitimate quality concern. As it stands, if you climb to the mountain peak in Tamriel worldspace and jump into the city, you'll end up among the LOD chaos and get stuck. Any player can of course un-stuck themselves using various console tricks, but ideally we wouldn't have to do that.
 
 I think this can be solved by cleverly using collision planes and autoloaddoors. Make it so that in some places, you simply can't jump over the walls at all, and in other places, jumping over the walls and into the city will teleport you into an appropriate location into the Windhelm worldspace.
 
