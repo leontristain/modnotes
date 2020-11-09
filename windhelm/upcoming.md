@@ -105,7 +105,7 @@ I do not plan to eventually work on an Open Cities patch.
 
 I personally do not use Open Cities Skyrim and not a fan of the idea in general. I think throwing everything into one worldspace makes compatibility and large modlists a harder problem for folks to solve. My personal view is also not only that loading doors don't bother me, but that Skyrim could use _more_ loading doors and separated spaces. Separate spaces help with modularity and confining the scope of issues. It can also be advantageous in that the inside can be bigger or different from the outside and still allow suspension of disbelief.
 
-Though, I recognize that these are personal views and lots of people think differently (after all OCS is incredibly popular). That said, as you can clearly see here, there are tons of other work to do, so with these as my personal views, I naturally have less motivation to work on an OCS patch, and thus I will be prioritizing an OCS patch near the bottom of my list, which realistically means I don't expect to ever get to it.
+Though, I recognize that these are personal views and lots of people think differently (after all OCS is incredibly popular). That said, as you can clearly see here, there are tons of other work to do. So with my personal preference on OCS, I naturally have less motivation to work on an OCS patch, and thus I will be prioritizing an OCS patch near the bottom of my list, which realistically means I don't expect to ever get to it.
 
 That said, anyone else is completely free to work on an OCS patch. More choices is always better than less choices.
 
