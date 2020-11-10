@@ -11,7 +11,7 @@
 
 ## Preview Video
 
-[![Epic Windhelm Expansion (Video Link)](http://img.youtube.com/vi/mLsSn7WpeAA/0.jpg)](http://www.youtube.com/watch?v=mLsSn7WpeAA "Epic Windhelm Expansion")
+[![Epic Windhelm Expansion (Video Link)](http://img.youtube.com/vi/mLsSn7WpeAA/0.jpg)](http://www.youtube.com/watch?v=mLsSn7WpeAA "Epic Windhelm Expansion (Video Link)")
 
 ## Overview
 
