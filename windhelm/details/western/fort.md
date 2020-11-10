@@ -11,7 +11,7 @@ The main entrance of the fort goes right onto the western wall. Additionally its
 
 With the wallwalks, there should be a lot of soldiers on patrol all the time. These soldiers need to sleep somewhere, which would likely be the various forts, keeps, and storehouses along the walls. The Western Fort is the largest wall structure, so its interiors would probably house a lot of beds and living quarters for wall soldiers. Perhaps there could be a prominent guard captain in charge of the southern walls, and this captain would have his or her own captain's quarters in the fort.
 
-> Note: The nif for the building comes from Castle Modders Resource by Tlaffoon. The building itself is the main keep from Tlaffoon's castle, but resized for a better fit with the wall. The building was originally designed to have external interiors (so there are actually inside parts in that nif), but the scale of course makes that no longer usable as-is, and we wanted an interior cell for it anyway.
+> Note: The nif for the building comes from [Castle Modders Resource](https://www.nexusmods.com/skyrim/mods/61709) by Tlaffoon. The building itself is the main keep from Tlaffoon's castle, but resized for a better fit with the wall. The building was originally designed to have external interiors (so there are actually inside parts in that nif), but the scale of course makes that no longer usable as-is, and we wanted an interior cell for it anyway.
 > 
 > The two wooden wolf heads are actually ornaments from [Stormcloak Cabin Resource](https://www.nexusmods.com/skyrim/mods/66514/) by Kraeten, which are cabin houses that are also used in the Northeast District in this mod. So yes, smashed inside that castle are also 2 overlapping cabins.
 > 
