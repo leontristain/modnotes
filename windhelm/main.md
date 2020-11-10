@@ -49,7 +49,7 @@ The obvious solution to the above, which people kept on telling me, is to ask fo
 
 Therefore, I am asking for folks to help. I am doing this in two ways. The first is really just the bare minimum of any "community effort" so it's really just stating the obvious. The second is what I will be focusing on from now.
 
-1.	All my permissions are completely open. At the very basic level, anyone can "fork" my mod whenever and however they like. This way, even if my efforts at this project fails at the end, whatever's complete can be carried on by someone else down the road.
+1.	All my permissions are completely open. At the very basic level, anyone can "fork" my mod whenever and however they like. This way, even if my efforts at this project fails at the end, whatever's complete can be carried on by someone else down the road. There is only one caveat, and that is any "forks" of this mod must only be distributed here on NexusMods. This is because I used the custom asset [Stormcloak Cabin Resource](https://www.nexusmods.com/skyrim/mods/66514/) by Kraeten, and permissions from the resource requires it.
 
 2.	I am soliciting interested folks to help out with interiors, NPCs, quests, clutter, etc... I have put a lot of effort in fleshing out the current state of the mod as a "base platform", such that contributors can build "addons" on top of it. The "base platform" handles all exterior layout, navmesh, and door links. The "base platform" will provide stub cells for interiors. For details, please see the [Community Effort Plan](/windhelm/plan.md).
 
