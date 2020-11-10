@@ -1,4 +1,5 @@
 - [Epic Windhelm Expansion](#epic-windhelm-expansion)
+  - [Preview Video](#preview-video)
   - [Overview](#overview)
   - [Current State Of The Mod](#current-state-of-the-mod)
   - [Call For Help](#call-for-help)
@@ -7,6 +8,10 @@
 # Epic Windhelm Expansion
 
 ![](/windhelm/pics/southwall.png?raw=true "An Epic Windhelm Expansion Mod")
+
+## Preview Video
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/mLsSn7WpeAA/0.jpg)](http://www.youtube.com/watch?v=mLsSn7WpeAA "Epic Windhelm Expansion")
 
 ## Overview
 
