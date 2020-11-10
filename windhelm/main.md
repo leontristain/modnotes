@@ -21,7 +21,7 @@
 * Expands Windhelm's city presence to the west, nort, and northeast directions, resulting in 3 entirely new city districts.
 * Restores and makes accessible the wallwalks of Windhelm, turning them into picturesque and functional road network to be used by the player and NPCs.
 * Repairs many problems in the vanilla Windhelm worldspace, such as missing or hidden terrains, missing standins for large external objects like the Windhelm Bridge, and various imperfections in vanilla Gray Quarters buildings when viewed from nonstandard angles. Overall, the fixes make Windhelm worldspace look whole and complete from any vantage point within the city walls.
-* Provides a gate that exists to the flat snowy plains to Windhelm's northeast, allowing a more sensible and straightforward road to Winterhold to be paved.
+* Provides a gate that exits to the flat snowy plains to Windhelm's northeast, allowing a more sensible and straightforward road to Winterhold to be paved.
 * Implemented in ways that minimizes compatibility concerns and maximizes potential for further exterior expansions.
 
 For a quick basic walk-through of mod details (with lots of pretty pictures), please read [this overview](/windhelm/overview.md).
