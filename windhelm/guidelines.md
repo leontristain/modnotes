@@ -20,7 +20,7 @@
 
 ### Please follow the following naming convention.
 
-The base mod will be called `EpicWindhelmBase.esp`. Your addon should be called `EpicWindhelm-YourModName.esp`. For example, if you turned the [Western District Temple](/windhelm/details/western/temple.md) into a building called the "Temple of Kyne", a good addon name might be `EpicWindhelm-TempleOfKyne.esp`.
+The base mod will be called `EpicWindhelm.esp`. Your addon should be called `EpicWindhelm-YourModName.esp`. For example, if you turned the [Western District Temple](/windhelm/details/western/temple.md) into a building called the "Temple of Kyne", a good addon name might be `EpicWindhelm-TempleOfKyne.esp`.
 
 If you want to prevent potential naming collisions with other addons, you can add a prefix before the `YourModName` part. For example, I tend to prefix my stuff with `ltr`, so I might call it `EpicWindhelm-ltrTempleOfKyne.esp`.
 
