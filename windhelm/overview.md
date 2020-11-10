@@ -6,6 +6,8 @@
 
 # Overview
 
+[![Epic Windhelm Expansion](http://img.youtube.com/vi/mLsSn7WpeAA/0.jpg)](http://www.youtube.com/watch?v=mLsSn7WpeAA "Epic Windhelm Expansion")
+
 This is an overview document that lets you know what you get with this mod, complete with lots of pretty pictures.
 
 For details of each area, please refer to [this document](/windhelm/details.md).
