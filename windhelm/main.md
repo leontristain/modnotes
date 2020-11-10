@@ -24,7 +24,7 @@
 * Provides a gate that exits to the flat snowy plains to Windhelm's northeast, allowing a more sensible and straightforward road to Winterhold to be paved.
 * Implemented in ways that minimizes compatibility concerns and maximizes potential for further exterior expansions.
 
-For a quick basic walk-through of mod details (with lots of pretty pictures), please read [this overview](/windhelm/overview.md).
+For a quick basic walk-through of mod details (with lots of pretty pictures), please read [the overview document](/windhelm/overview.md).
 
 For details about newly added buildings, landmarks, and other locations within the expanded city, please start browsing [this page](/windhelm/details.md).
 
