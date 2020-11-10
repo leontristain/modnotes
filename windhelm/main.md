@@ -18,7 +18,7 @@
 
 **Epic Windhelm Expansion** is my attempt at a Windhelm expansion mod for Skyrim Special Edition. As far as I know, in concept this is the largest and most "expansive" city expansion mod for Windhelm that has ever been attempted. Broadly speaking, **Epic Windhelm Expansion** tries to do the following:
 
-* Expands Windhelm's city presence to the west, nort, and northeast directions, resulting in 3 entirely new city districts.
+* Expands Windhelm's city presence to the west, north, and northeast directions, resulting in 3 entirely new city districts.
 * Restores and makes accessible the wallwalks of Windhelm, turning them into picturesque and functional road network to be used by the player and NPCs.
 * Repairs many problems in the vanilla Windhelm worldspace, such as missing or hidden terrains, missing standins for large external objects like the Windhelm Bridge, and various imperfections in vanilla Gray Quarters buildings when viewed from nonstandard angles. Overall, the fixes make Windhelm worldspace look whole and complete from any vantage point within the city walls.
 * Provides a gate that exits to the flat snowy plains to Windhelm's northeast, allowing a more sensible and straightforward road to Winterhold to be paved.
