@@ -3,6 +3,7 @@
   - [Beautiful Visuals](#beautiful-visuals)
   - [Quality and Vanilla Fixups](#quality-and-vanilla-fixups)
   - [Navmesh and Compatibility](#navmesh-and-compatibility)
+  - [In-Depth Details Of Each Area](#in-depth-details-of-each-area)
 
 # Overview
 
@@ -130,3 +131,7 @@ These were entirely dealt with using NAVCUT boxes, which means other than the ne
 Areas directly outside the southern walls and dock gate were left alone, in order to minimize compatibility issues with exterior expansion mods such as Windhelm Bridge Overhaul, Windhelm Exterior Altered, and Windhelm Dock Pathways. I am not aware of any exterior expansion mods that put things on the west side and northeast side of the city, and thus those are the only directions I expanded the city towards.
 
 In the Windhelm worldspace, vanilla areas are largely left alone, with the exception of a few places that transition from vanilla area to newly-expanded areas. This should make it so that mods that try to beautify/clutterfy vanilla areas, such as JK's Skyrim/Dawn of Skyrim, should not have severe conflicts that are not easily resolvable in a patch.
+
+## In-Depth Details Of Each Area
+
+For in-depth details of each area, please start browsing [here](/windhelm/details.md)
