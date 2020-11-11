@@ -3,6 +3,7 @@
     - [Continuous Bug Fixes And Quality Improvements](#continuous-bug-fixes-and-quality-improvements)
     - [Beacon of Windhelm Lighthouse Structure](#beacon-of-windhelm-lighthouse-structure)
     - [Make Northern District Bonfire Smaller](#make-northern-district-bonfire-smaller)
+    - [Shininess Pass](#shininess-pass)
     - [Northeast Gatehouse Portcullis And Murder Holes](#northeast-gatehouse-portcullis-and-murder-holes)
     - [Windswept Manor Balcony Railing](#windswept-manor-balcony-railing)
     - [Tamriel Worldspace Intruder Prevention](#tamriel-worldspace-intruder-prevention)
@@ -49,6 +50,12 @@ The current "Beacon of Windhelm" is a simple giant camp bonfire. Following some 
 ### Make Northern District Bonfire Smaller
 
 The northern district bonfire is perhaps a tad too large. Perhaps a smaller bonfire there would be a bit more realistic.
+
+### Shininess Pass
+
+It seems that with vanilla textures, some of the structures are overly shiny. I will take a look at how to address this. Perhaps with more nif hacking.
+
+I suppose I can say that the base mod is "optimized" for NobleSkyrim in mind, but I should certainly take a look at reducing "glaring issues" (hehe) for other textures.
 
 ### Northeast Gatehouse Portcullis And Murder Holes
 
