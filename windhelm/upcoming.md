@@ -13,6 +13,7 @@
     - [Fortified Windhelm, Capital Windhelm Expansion (when they come out)](#fortified-windhelm-capital-windhelm-expansion-when-they-come-out)
     - [USSEP](#ussep)
     - [Faction: Pit Fighter](#faction-pit-fighter)
+    - [AI Overhaul](#ai-overhaul)
     - [A Note On Open Cities Skyrim](#a-note-on-open-cities-skyrim)
   - [Work To Be Done As Separate ESPs](#work-to-be-done-as-separate-esps)
     - [Mountain Rework North of Windhelm](#mountain-rework-north-of-windhelm)
@@ -98,6 +99,10 @@ The base mod needs an USSEP patch. If you see floating icicles around the Arena 
 ### Faction: Pit Fighter
 
 The base mod restores the arena structure but doesn't touch any playable content. Faction: Pit Fighter is the forefront mod that restores the arena quest content, so it would be nice to patch that in. I currently don't know how straightforward it would be to do that since I've never played through that mod myself, but it's definitely something to take a stab at.
+
+### AI Overhaul
+
+This mod was mentioned as a potential patch candidate, so I will look at this at some point. Not yet sure whether a patch is easy or difficult or needed at all. I think it will depend on what it does to navmesh if any.
 
 ### A Note On Open Cities Skyrim
 
