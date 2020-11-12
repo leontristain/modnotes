@@ -23,19 +23,20 @@ The remaining work involves:
 
 The current state of the mod is what I consider the "base mod", which includes the expanded city layout, navmesh, working door links, and stub interior cells. In order to best isolate contributor works from each other and minimize compatibility concerns, I will be in charge of these "infrastructure" bits of the expanded city, and ask contributors to not touch exterior layout, navmesh, and door links.
 
-I'd like to ask contributors to contribute their content as modular, self-contained "***addon***" mods in their own ESPs. Addons should abide by [these guidelines](/windhelm/guidelines.md) in order to keep addon content self-contained and isolated, so that we may reap the benefits of this "base mod + addon" scheme.
+I'd like to ask contributors to contribute their content as modular, self-contained "***addon***" mods in their own ESPs. The addon esp would depend on my base mod (as master). Addons should abide by [these guidelines](/windhelm/guidelines.md) in order to keep addon content self-contained and isolated, so that we may reap the benefits of this "base mod + addon" scheme.
 
 This "base mod + addon" scheme has the following advantages:
 
-* The base mod provides a common platform for addon authors to work on.
+* The base mod provides a common platform for addon authors to work on independently of each other.
 * The base mod can take up the responsibility of patching with other Windhelm overhaul mods like JK's/DoS, and addons should be largely isolated from these changes.
 * The base mod can progress in parallel with addons. I will do the best I can at maintaining backwards compatibility with base mod updates.
 * Addons are self-contained and isolated from each other, minimizing conflicts and patching needs between addons (as long as [guidelines are followed](/windhelm/guidelines.md))
 * Addons are modular and composable, allowing for combinations of addons to be curated together into "addon packs" or simply be picked and chosen by users themselves.
+* The overall scheme should minimize the baseline of responsibility addon authors need to assume. For a typical small sized addon there shouldn't be a need for the addon author to have to worry about patches or future maintenance. A lot of addon projects can be a "make it once and then forget" kind of thing. Hopefully this makes such addons novice-friendly modder projects.
 * The overall scheme should end up giving addon authors a lot of flexibility. An addon could be of any size, so novice mod authors could pick up a small beginner project while highly interested prolific authors can attempt something really big and complex.
 * The overall scheme should end up giving addon authors a lot of creative freedom to work on their own vision. There's no need to conform to a singular vision, and multiple addons that implement the same building could each have their own audience (see [Concerns Regarding Overlapping Content](#concerns-regarding-overlapping-content)).
 
-When addons are complete, they are expected to be published independently, and eventually merged into an "addon pack". A feature-complete Epic Windhelm Expansion would be a combination of the base mod and an addon pack, or a base mod and any number of addons/addon packs used together. Please see [Concerns Regarding Plugin Count](#concerns-regarding-plugin-count) for why addon packs are part of this plan.
+When addons are complete, they are expected to be published independently, and potentially eventually merged into an "addon packs". From the player's perspective, a feature-complete Epic Windhelm Expansion would be a combination of the base mod and any number of addons or addon packs used together. Please see [Concerns Regarding Plugin Count](#concerns-regarding-plugin-count) for why addon packs are part of this plan.
 
 This means I am encouraging and hoping for contributors to provide open permissions for myself or others to include their creative work in any "addon packs" I or others may curate eventually. Of course I cannot require this, but I do highly and heavily encourage it.
 
@@ -49,13 +50,13 @@ Barring logistical issues (see [Concerns Regarding Dependencies Between Addons](
 * A small-scale mod that simply adds decor and clutter to various places around the city, making it look prettier.
 * A minimal mod that patches some other unrelated mod into the interiors of these buildings.
 
-Basically, you are free to work on anything. All I ask is that you follow [these guidelines](/windhelm/guidelines.md). I also encourage you to keep your addons modular and self-contained. For example, if you are implementing 2 interiors, see if you can organize the work into two separate addons, as that would be preferred. (related: see [Concerns Regarding Plugin Count](#concerns-regarding-plugin-count))
+Basically, you are free to work on anything. All I ask is that you follow [these guidelines](/windhelm/guidelines.md). I also encourage you to keep your addons modular and self-contained. For example, if you are implementing 2 interiors, see if you can organize the work into two separate addons where at least one if not both could be self-contained and standalone. See [examples here](https://github.com/leontristain/modnotes/blob/main/windhelm/guidelines.md#please-keep-your-content-as-modular-and-self-contained-as-possible). (Also related: [Concerns Regarding Plugin Count](#concerns-regarding-plugin-count))
 
-For interested folks, a good starting point is to read [the overview](/windhelm/overview.md) and then browse through [what buildings are available](/windhelm/details.md), maybe one or two of them would spark your imagination and interest. When you start, please feel free to let me know what you'll be taking a stab at, so that I am informed on the overall state of the community effort.
+For interested folks, a good starting point is to read [the overview](/windhelm/overview.md) and then browse through [what buildings are available](/windhelm/details.md), maybe one or two of them would spark your imagination and interest. When you start, please feel free to let me know what you'll be taking a stab at, so that I am informed on the overall state of the community effort. I have also opened up the ["Forum" section in the base mod's NexusMods page](https://www.nexusmods.com/skyrimspecialedition/mods/40745?tab=forum), where folks can discuss ideas, share work, and potentially coordinate between multiple related addons, if necessary.
 
 ## What If I Want Something In The Base Mod Changed?
 
-If you are a contributor and you feel strongly about something "infrastructure-y" in the base mod that I asked you not to touch, let's chat. Also, if you feel like something you're about to add really should be in the base mod to be made available to everyone, let's also chat.
+If you are a contributor and you feel strongly about something in the base mod that I asked you not to touch, let's chat. Also, if you feel like something you're about to change really should be the base mod's responsibility to be made available to everyone, let's also chat.
 
 For example, if you feel the need to put an idle marker somewhere that the existing navmesh currently doesn't reach, please talk to me. I will be able to update the navmesh for you in the base mod.
 
@@ -63,7 +64,7 @@ Another example, if you want to add a market stall into one of the empty squares
 
 Another example, if you feel very strongly about a particular creative decision in the base mod that could be vastly improved, then let's chat. I may already agree with you, or I may be convinced by your arguments. If so, I will put it on my [list of future work](/windhelm/upcoming.md) to get to.
 
-And if all else fails, you are always free to create a traditional patch or even fork my base mod. My permissions are fully open so you can do anything. Though if you do patch or fork my mod then know that you are taking up future maintenance responsibility for your patch/forks.
+And if all else fails, you are always free to create a traditional patch or even fork my base mod. My permissions are fully open so you can do anything. Though if you do patch or fork my mod then know that you are taking up future maintenance responsibility for your patch or fork.
 
 ## Is Windswept Manor Commons Part Of The Base Mod?
 
@@ -83,20 +84,24 @@ For example, an addon that tries to build out an interior of one of the residenc
 
 Since I am giving addon authors "free reign" in what they choose to work on, I am expecting these dependencies to manifest naturally. For example, folks working on residences may find that they are blocked initially until we have folks interested and then completing the communal buildings, which may naturally encourage folks to work on the communal buildings because they are not blocked by other dependencies.
 
+If there is a need for authors of multiple related addons to coordinate, I've opened up the ["Forum" section in the base mod's NexusMods page](https://www.nexusmods.com/skyrimspecialedition/mods/40745?tab=forum) which might be a good place for discussions and coordination.
+
 ## Concerns Regarding Plugin Count
 
 With a flexible "addon" ecosystem being attempted here, there is the concern that many addons may eat into the user's plugin count. This is expected to be mitigated in two ways:
 
-First, addon authors are encouraged to release ESPFE (ESL-ified ESPs) plugins whenever possible. ESPFEs have a limitation of 2048 new records, however 2048 is likely enough for small-sized addons. For some examples to compare against: [Wares of Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/31519) has ~800 records. [Crossroads Inn](https://www.nexusmods.com/skyrimspecialedition/mods/1406) has ~1000 records, [Astronomer's Loft](https://www.nexusmods.com/skyrimspecialedition/mods/38059) has ~700 records.
+First, addon authors are encouraged to release ESPFE (ESL-ified ESPs) plugins whenever possible. ESPFEs have a limitation of 2048 new records, however 2048 is likely enough for small-sized addons. For some examples to compare against: [Wares of Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/31519) has ~800 records. [Crossroads Inn](https://www.nexusmods.com/skyrimspecialedition/mods/1406) has ~1000 records, [Astronomer's Loft](https://www.nexusmods.com/skyrimspecialedition/mods/38059) has ~700 records. Also worth consider is that mid-sized addons too big for ESPFE might be splittable into multiple, smaller, standalone addons that can fit into ESPFE (See: [related part of the guideline](https://github.com/leontristain/modnotes/blob/main/windhelm/guidelines.md#please-keep-your-content-as-modular-and-self-contained-as-possible)).
 
-Second, multiple addons can be merged together into "addon packs". See [How Contributions Will Be Managed](#how-contributions-will-be-managed). Addon authors are expected to provide permissions for them to be curated into addon packs, in which case plugin count would become less of an issue.
+Second, multiple addons can be merged together into "addon packs". See [How Contributions Will Be Managed](#how-contributions-will-be-managed). I am strongly encouraging, and hoping, for addon authors to provide permissions for their work to be eventually curated into addon packs. From the player's perspective, an addon pack could dramatically decrease the number of ESPs that need to be loaded.
 
-If your addon does not fit into the limit of an ESPFE, and you feel strongly about maintaining distribution control and don't want to provide permission to include into addon packs, then I think it's likely that you have created a large, extensive, and high-quality mod that took lots of time and effort. In that case, perhaps it is deserving of an ESP slot of its own, in the same way as, say, Morskom Estate deserves its own ESP slot in a modlist that overhauls Dawnstar, and Drengin's Blue Palace Terrace deserves its own ESP slot in a modlist that overhauls Solitude. Perhaps we can then say the additional ESP slot is no more an issue than what folks should already be used to.
+Of course, authors are free to not give permission to include their work in addon packs. I would like to think that if an author want to keep tight control over their work, then the author must've created a large, extensive, high quality mod that took lots of time and effort. If so, then perhaps it is deserving of an ESP slot of its own. There are certainly mods that add one thing to a city that I as a user would not begrudge spending an ESP slot on, such as [Morskom Estate](https://www.nexusmods.com/skyrimspecialedition/mods/33408) or [Drengin's Blue Palace Terrace](https://www.nexusmods.com/skyrimspecialedition/mods/35180).
+
+Standalone addons that cannot be merged into addon packs, of course, can be used alongside addon packs, as long as they do not overlap.
+
+Beyond this, of course users are free to merge their own mods, though this has a high technical bar so many users might not be able to do this.
 
 ## Concerns Regarding Overlapping Content
 
-Multiple addons that change the same thing obviously are not compatible with each other. This is not a problem because as separate, independent addons, each can have its own audience and users are free to pick and choose. In contrast, if contributor work is managed the typical way as a singular overall project with a single vision, then only one person's creative vision will be realized.
+Multiple addons that change the same thing obviously are not compatible with each other. This is true, however I do not see it as a problem, since the users and addon pack curators can choose one among the two, and each addon can have its own audience. In contrast, if contributor work is managed the typical way as a singular overall project with a single vision, then only one person's creative vision will be realized.
 
-Regarding "addon packs", while I will curate and release my own "addon pack" out of the addons we get that provide permissions for it, I will release it as a separate mod from the base mod so to not advertise it as "official". From my perspective, anyone can curate their own addon pack and release it (assuming permissions are given), and any addon may be chosen by any addon pack to be included.
-
-The user is also not required to use addon packs and can choose to merge their own addon pack, or simply install individual addons separately (if they've got the plugin space in their load orders).
+Regarding "addon packs", while I plan to eventually curate and release my own "addon pack" out of the addons we get that provide permissions for it, I will release it as a separate mod from the base mod so to not advertise it as "official". From my perspective, anyone can curate their own addon pack and release it (assuming permissions are given), and any addon may be chosen by any addon pack to be included, and therefore the market should be fair for addons.
