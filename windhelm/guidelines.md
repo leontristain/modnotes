@@ -99,7 +99,7 @@ So, again this is very important. Always _reuse_ the interior door I provided in
 
 ### Try to avoid large-scale visual changes to vanilla areas
 
-The overall spirit of this Windhelm expansion mod is to expand Windhelm and not overhaul vanilla areas. In the base mod, the vanilla proper is largely untouched. There are some exceptions made to a few places where vanilla areas transition to newly expanded areas. For background and details, please see [Notable Vanilla Edits](/windhelm/details/vanilla/vanillaedits.md) If you decide to decorate the Windhelm worldspace, please try to avoid vanilla areas.
+The overall spirit of this Windhelm expansion mod is to expand Windhelm and not overhaul vanilla areas. In the base mod, the vanilla proper is largely untouched. There are some exceptions made to a few places where vanilla areas transition to newly expanded areas. For background and details, please see [Notable Vanilla Edits](/windhelm/details/vanilla/vanillaedits.md). If you decide to decorate the Windhelm worldspace, please try to avoid vanilla areas.
 
 This is important because it is the base mod's responsibility to patch with mods that decorates vanilla areas, such as JK's Skyrim and Dawn of Skyrim. If your addon end up being incompatible with such mods, the base mod cannot handle them and your addon will need patches, and that can get really complicated.
 
