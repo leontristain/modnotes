@@ -169,7 +169,7 @@ Probably also need to add road signs to match at junctions.
 
 ### Windhelm Dock Expansion
 
-The dockside in the Tamriel worldspace has expansion potential. However I think there may already be mods that address this, in which case perhaps patching the base mod with them would be sufficient.
+The dockside in the Tamriel worldspace has expansion potential. I think there may already be mods that does this, in which case perhaps patching the base mod with them would be sufficient.
 
 But if not, here are rough sketches on some dockside expansion ideas:
 
