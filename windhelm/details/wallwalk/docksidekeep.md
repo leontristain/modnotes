@@ -10,6 +10,6 @@ The restored walls also restored the large flat roof of the Windhelm Docks build
 
 The keep structure has five doors. The lowest door is located right at the wall level on the building's east side. The main door is located a bit higher, along a set of stairs that goes up and then down around Calixto's House of Curiosities. This door is easily accessible from the road between Brunwulf Free-Winter's home and the Aretino Residence. Then, the fort has balconies on its eastern and southern side, as well as a roof that is also accessible via a door.
 
-At the very beginning, I liked this space for a player home (in the style of The Rookery by Elianora), but now I think it makes much more sense for this to building to be used by the city guard. If the Gray Quarter Wall Storeroom area are not used for a guard training academy, then perhaps this building could serve as one, as well as your typical sleeping quarters for guards, etc...
+At the very beginning, I liked this space for a player home (in the style of The Rookery by Elianora), but now I think it makes much more sense for this building to be used by the city guard. If the Gray Quarter Wall Storeroom area are not used for a guard training academy, then perhaps this building could serve as one, as well as your typical sleeping quarters for guards, etc...
 
 This building does not take up all the space above the docks. The remaining space is enough for a small market or maybe something else.
