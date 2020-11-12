@@ -96,7 +96,7 @@ Second, multiple addons can be merged together into "addon packs". See [How Cont
 
 Of course, authors are free to not give permission to include their work in addon packs. I would like to think that if an author want to keep tight control over their work, then the author must've created a large, extensive, high quality mod that took lots of time and effort. If so, then perhaps it is deserving of an ESP slot of its own. There are certainly mods that add one thing to a city that I as a user would not begrudge spending an ESP slot on, such as [Morskom Estate](https://www.nexusmods.com/skyrimspecialedition/mods/33408) or [Drengin's Blue Palace Terrace](https://www.nexusmods.com/skyrimspecialedition/mods/35180).
 
-Standalone addons that cannot be merged into addon packs, of course, can be used alongside addon packs, as long as they do not overlap.
+Standalone addons that cannot be merged into addon packs, of course, can still be used alongside addon packs, as long as they do not overlap.
 
 Beyond this, of course users are free to merge their own mods, though this has a high technical bar so many users might not be able to do this.
 
