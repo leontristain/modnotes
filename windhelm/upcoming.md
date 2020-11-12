@@ -8,7 +8,7 @@
     - [Battlements](#battlements)
     - [Windswept Manor Balcony Railing](#windswept-manor-balcony-railing)
     - [Tamriel Worldspace Intruder Prevention](#tamriel-worldspace-intruder-prevention)
-    - [Civil War Compatibility](#civil-war-compatibility)
+    - [Civil War Polish](#civil-war-polish)
   - [Eventual Patches](#eventual-patches)
     - [Windhelm Worldspace](#windhelm-worldspace)
     - [Tamriel Worldspace](#tamriel-worldspace)
@@ -80,7 +80,7 @@ I imagine one reason vanilla Windhelm only _barely_ touches the mountainside wit
 
 I think this can be solved by cleverly using collision planes and autoloaddoors. Make it so that in some places, you simply can't jump over the walls at all, and in other places, jumping over the walls and into the city will teleport you into an appropriate location into the Windhelm worldspace.
 
-### Civil War Compatibility
+### Civil War Polish
 
 Windhelm is involved in the civil war, so a Windhelm expansion should ideally be compatible with the civil war events.
 
