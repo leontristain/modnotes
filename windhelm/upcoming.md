@@ -5,6 +5,7 @@
     - [Make Northern District Bonfire Smaller](#make-northern-district-bonfire-smaller)
     - [Shininess Pass](#shininess-pass)
     - [Northeast Gatehouse Portcullis And Murder Holes](#northeast-gatehouse-portcullis-and-murder-holes)
+    - [Battlements](#battlements)
     - [Windswept Manor Balcony Railing](#windswept-manor-balcony-railing)
     - [Tamriel Worldspace Intruder Prevention](#tamriel-worldspace-intruder-prevention)
     - [Civil War Compatibility](#civil-war-compatibility)
@@ -60,6 +61,14 @@ I suppose I can say that the base mod is "optimized" for NobleSkyrim in mind, bu
 ### Northeast Gatehouse Portcullis And Murder Holes
 
 The [Northeast Gatehouse](/windhelm/details/northeast/gatehouse.md) has a fairly large space underneath the gate. This could use a portcullis and some murder holes which may make Shadiversity fans a bit happier. Though the vanilla portcullis nif is too small for this purpose, maybe I can find some witcher nifs for it. Murder holes can probably be made out of some of those windows. Of course it will all just be for appearances and nothing is expected to actually be functional.
+
+### Battlements
+
+Currently, the wallwalks are basically lined on both sides with a big, rectangular log. This has been my best idea so far but it's obviously not ideal.
+
+It would be really cool if we can add battlements along the outward-facing edge of the walls. Currently, there is a wall piece from "Castle Modders Resource" that I can use, though I worry that the size of the piece means a lot of copies are needed to fully cover all the walls. Would that result in performance issues? Not sure.
+
+Anyway, things to be experimented with.
 
 ### Windswept Manor Balcony Railing
 
