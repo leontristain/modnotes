@@ -10,9 +10,9 @@ Like above, there are more such thin stairs along the wall all the way to the ma
 
 The market square itself has been expanded further westward by roughly half of its original area. The far side is no longer a dead end. Now the road continues onward, underneath a bridge, and goes into the new Western District.
 
-The bigger market square and nature of the path now being a "through path", meant the original placements of the market stands are now awkward and blocking people, so I rearranged the stands a bit.
+The bigger market square and nature of the path now being a "through path", meant the original placements of the market stands are now awkward and blocking the way, so I rearranged the stands a bit. Notably, Hillevi Cruel-Sea's produce stand is now at the northwest corner, which is part of the newly expanded area.
 
-The "thin stairs" that leads up to the wallwalk also displaced some firewood piles, which I relocated into the market.
+The "thin stairs" that leads up to the wallwalk also displaced some firewood piles, which I relocated into the market. For the market changes, I modified vanilla navmesh to close up holes where market stands used to be but no longer are, and then I used NAVCUT boxes to handle the new object locations.
 
 All of these are shown in the below image.
 
