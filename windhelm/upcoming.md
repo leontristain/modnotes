@@ -2,11 +2,12 @@
   - [Base Mod Work](#base-mod-work)
     - [Continuous Bug Fixes And Quality Improvements](#continuous-bug-fixes-and-quality-improvements)
     - [Beacon of Windhelm Lighthouse Structure](#beacon-of-windhelm-lighthouse-structure)
-    - [Make Northern District Bonfire Smaller](#make-northern-district-bonfire-smaller)
+    - [Smaller Northern District Bonfire](#smaller-northern-district-bonfire)
     - [Shininess Pass](#shininess-pass)
     - [Northeast Gatehouse Portcullis And Murder Holes](#northeast-gatehouse-portcullis-and-murder-holes)
     - [Battlements](#battlements)
     - [Windswept Manor Balcony Railing](#windswept-manor-balcony-railing)
+    - [Road Signs Inside Windhelm](#road-signs-inside-windhelm)
     - [Tamriel Worldspace Intruder Prevention](#tamriel-worldspace-intruder-prevention)
     - [Civil War Polish](#civil-war-polish)
   - [Eventual Patches](#eventual-patches)
@@ -48,7 +49,7 @@ There are remaining bugs and quality issues in the base mod that I will continue
 
 The current "Beacon of Windhelm" is a simple giant camp bonfire. Following some feedback and discussion from folks on NexusMods, we have decided that a lighthouse beacon structure would be better. An existing Frostflow Lighthouse nif can be retextured using Windhelm/Nordic textures, and its size should fit nicely.
 
-### Make Northern District Bonfire Smaller
+### Smaller Northern District Bonfire
 
 The northern district bonfire is perhaps a tad too large. Perhaps a smaller bonfire there would be a bit more realistic.
 
@@ -73,6 +74,12 @@ Anyway, things to be experimented with.
 ### Windswept Manor Balcony Railing
 
 The [Windswept Manor Suite](/windhelm/details/windswept/suite.md) has an awesome balcony. The fences of that balcony however are currently a bunch of overlapping ladders, and the overlapping surfaces means if you squint your eyes you can see the textures flickering. I plan to redo the railing to resolve this issue.
+
+### Road Signs Inside Windhelm
+
+Vanilla Windhelm has always been a confusing city that's easy to get lost in. In the expansion, though navigation is arguably made easier by the Wallwalk roads, we nevertheless have more area in general. Thus I think it would be good if there are signs here and there in the city that tells you the general direction of districts and landmarks.
+
+This should only involve creating the sign statics, and then putting them up along various walls and corners in the city. Purely additive objects.
 
 ### Tamriel Worldspace Intruder Prevention
 
@@ -102,19 +109,21 @@ Anyway, at some point there will probably be a pass to address these. Until then
 
 ### Fortified Windhelm, Capital Windhelm Expansion (when they come out)
 
-I've been told that the author of [Fortified Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/40094) is working on a [Fortified Windhelm](https://www.nexusmods.com/skyrimspecialedition/images/84030) mod. This mod is not yet released but there are preview screenshots with really great looking battlements. When this mod is out I will be attempting a patch to see if we can get this mod's interior expansion and wallwalks but with that mod's battlements, gate, and bridge. Wouldn't that be amazing?
+I've been told that the author of [Fortified Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/40094) is working on a [Fortified Windhelm](https://www.nexusmods.com/skyrimspecialedition/images/84030) mod. This mod is not yet released but there are preview screenshots with really great looking battlements. When this mod is out I will be attempting a patch to see if we can get our mod's interior expansion and wallwalks, but with Fortified Windhelm's battlements, gate, and bridge. Wouldn't that be amazing?
 
-I've also learned that the author of [Capital Whiterun Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/37982) is working on an interior expansion mod for Windhelm. This mod and that mod conflicts in concept so a direct patch may not be possible. However I am a huge fan of Surjamte's work with Whiterun and I'm sure the Windhelm version will come with many high quality interiors, NPCs, and quests, and I wonder if at the very least I can create a patch that brings over some of the interiors, NPCs, and quests into my city layout and buildings as an addon.
+I've also learned that the author of [Capital Whiterun Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/37982) is working on a city expansion mod for Windhelm. Our mod and this "Capital Windhelm Expansion" conflicts in concept so a direct patch may not be possible. However I am a huge fan of Surjamte's work with Whiterun and I'm sure the Windhelm version will come with many high quality interiors, NPCs, and quests, and I wonder if at the very least I can create a patch that brings over some of the interiors, NPCs, and quests into my city layout and buildings as an addon.
 
 Of course these mods must come out first, then we shall see what's possible.
 
 ### USSEP
 
-The base mod needs an USSEP patch. If you see floating icicles around the Arena prison - those are some USSEP-added objects that can only be disabled or relocated in an USSEP patch.
+The base mod needs an USSEP patch. If you see floating icicles around the Arena prison - those are due to a lack of USSEP patch. For the time being, they're easily disabled in-game using the console.
 
 ### Faction: Pit Fighter
 
-The base mod restores the arena structure but doesn't touch any playable content. Faction: Pit Fighter is the forefront mod that restores the arena quest content, so it would be nice to patch that in. I currently don't know how straightforward it would be to do that since I've never played through that mod myself, but it's definitely something to take a stab at.
+The base mod restores the arena structure but doesn't touch any playable content. Faction: Pit Fighter is the forefront mod that restores the arena quest content, so it would be nice to patch that in.
+
+I currently don't know how straightforward such a patch would be since I've never played through that mod myself, but it's definitely something to take a stab at.
 
 ### AI Overhaul
 
@@ -124,13 +133,13 @@ This mod was mentioned as a potential patch candidate, so I will look at this at
 
 I do not plan to eventually work on an Open Cities patch, or, more accurately, an OCS patch is very low priority for me and I don't expect to ever get to it.
 
-I personally do not use Open Cities Skyrim and not a fan of the idea in general. I think throwing everything into one worldspace makes compatibility and large modlists a harder problem for folks to solve. My personal view is also not only that loading doors don't bother me, but that Skyrim could use _more_ loading doors and separated spaces. Separate spaces help with modularity and confining the scope of issues. It can also be advantageous in that the inside can be bigger or different from the outside and still allow suspension of disbelief.
+I personally do not use Open Cities Skyrim and not a fan of the idea in general. I think throwing everything into one worldspace makes compatibility and large modlists a harder problem for folks to solve. My personal view is also not only that loading doors don't bother me, but that Skyrim could use _more_ loading doors and separated spaces. I like separate spaces because I think they help with modularity and confining the scope of issues. It can also be advantageous in that the inside can be bigger or different from the outside and still allow suspension of disbelief.
 
-Though, I recognize that these are personal views and lots of people think differently (after all OCS is incredibly popular). That said, as you can clearly see here, there are tons of other work to do. So with my personal preference on OCS, I naturally have less motivation to work on an OCS patch, and thus I will be prioritizing an OCS patch near the bottom of my list, which realistically means I don't expect to ever get to it.
+Though, I do recognize that these are personal views and lots of people think differently (after all OCS is incredibly popular). That said, as you can clearly see here, there are tons of other work to do. So with my personal preference on OCS, I naturally have less motivation to work on an OCS patch, and thus I will be prioritizing an OCS patch near the bottom of my list, which realistically means I don't expect to ever get to it.
 
-That said, anyone else is completely free to work on an OCS patch. More choices is always better than less choices.
+Nevertheless, anyone else is completely free to work on an OCS patch. More choices is always better than less choices.
 
-Currently, the base mod is roughly the same size inside as it is outside, so I believe fundamentally an OCS patch is possible.
+Currently, the base mod is roughly the same size inside as it is outside, so I believe fundamentally an OCS patch is possible. There may be plenty of challenges to solve. For example, my Windhelm worldspace stuff is a bit different from my Tamriel worldspace stuff. The differences are small enough that I believe most players would be able to keep their suspension of disbelief. A good number of cases the difference comes from technical problems I had to work around, such as imperfect collision geometry on some of the large exterior objects creating invisible barriers within the city. An OCS patch would probably need to solve these problems differently. Though, take everything I said here with a grain of salt since I never tried to make an OCS patch or looked at what it involves. I'm just blindly guessing, that's all.
 
 ## Work To Be Done As Separate ESPs
 
