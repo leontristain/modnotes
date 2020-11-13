@@ -13,7 +13,10 @@
   - [Eventual Patches](#eventual-patches)
     - [Windhelm Worldspace](#windhelm-worldspace)
     - [Tamriel Worldspace](#tamriel-worldspace)
-    - [Fortified Windhelm, Capital Windhelm Expansion (when they come out)](#fortified-windhelm-capital-windhelm-expansion-when-they-come-out)
+    - [Upcoming Major Windhelm Expansion Mods (when they come out)](#upcoming-major-windhelm-expansion-mods-when-they-come-out)
+      - [Fortified Windhelm](#fortified-windhelm)
+      - [Capital Windhelm Expansion](#capital-windhelm-expansion)
+      - [Unnamed Windhelm Expansion Mod by AndrealphusVIII (/u/Sacralletius)](#unnamed-windhelm-expansion-mod-by-andrealphusviii-usacralletius)
     - [USSEP](#ussep)
     - [Faction: Pit Fighter](#faction-pit-fighter)
     - [AI Overhaul](#ai-overhaul)
@@ -65,11 +68,9 @@ The [Northeast Gatehouse](/windhelm/details/northeast/gatehouse.md) has a fairly
 
 ### Battlements
 
-Currently, the wallwalks are basically lined on both sides with a big, rectangular log. This has been my best idea so far but it's obviously not ideal.
+Currently, the wallwalks are basically lined on both sides with a big, rectangular log. This has been my best idea so far but it's obviously not ideal. It would be really cool if we can add battlements along the outward-facing edge of the walls.
 
-It would be really cool if we can add battlements along the outward-facing edge of the walls. Currently, there is a wall piece from "Castle Modders Resource" that I can use, though I worry that the size of the piece means a lot of copies are needed to fully cover all the walls. Would that result in performance issues? Not sure.
-
-Anyway, things to be experimented with.
+/u/Sacralletius on reddit has pointed me to [Black Thorn Keep](https://www.nexusmods.com/skyrimspecialedition/mods/25920) which contain custom assets for battlements and machicolations, and has open permissions. This seems promising as a source of those models, so I'm going to try to add them into the base mod.
 
 ### Windswept Manor Balcony Railing
 
@@ -107,13 +108,21 @@ Anyway, at some point there will probably be a pass to address these. Until then
 * Windhelm Exterior Altered
 * Windhelm Docks Pathways
 
-### Fortified Windhelm, Capital Windhelm Expansion (when they come out)
+### Upcoming Major Windhelm Expansion Mods (when they come out)
+
+#### Fortified Windhelm
 
 I've been told that the author of [Fortified Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/40094) is working on a [Fortified Windhelm](https://www.nexusmods.com/skyrimspecialedition/images/84030) mod. This mod is not yet released but there are preview screenshots with really great looking battlements. When this mod is out I will be attempting a patch to see if we can get our mod's interior expansion and wallwalks, but with Fortified Windhelm's battlements, gate, and bridge. Wouldn't that be amazing?
+
+#### Capital Windhelm Expansion
 
 I've also learned that the author of [Capital Whiterun Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/37982) is working on a city expansion mod for Windhelm. Our mod and this "Capital Windhelm Expansion" conflicts in concept so a direct patch may not be possible. However I am a huge fan of Surjamte's work with Whiterun and I'm sure the Windhelm version will come with many high quality interiors, NPCs, and quests, and I wonder if at the very least I can create a patch that brings over some of the interiors, NPCs, and quests into my city layout and buildings as an addon.
 
 Of course these mods must come out first, then we shall see what's possible.
+
+#### Unnamed Windhelm Expansion Mod by AndrealphusVIII (/u/Sacralletius)
+
+/u/Sacralletius told me on Reddit that he is working on a Windhelm Expansion mod of his own. The screenshots I saw looked great. I am looking forward to its eventual release. When it comes out I will look into patching potential with his mod.
 
 ### USSEP
 
