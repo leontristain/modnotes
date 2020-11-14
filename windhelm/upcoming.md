@@ -20,6 +20,7 @@
     - [USSEP](#ussep)
     - [Faction: Pit Fighter](#faction-pit-fighter)
     - [AI Overhaul](#ai-overhaul)
+    - [Bells of Skyrim](#bells-of-skyrim)
     - [A Note On Open Cities Skyrim](#a-note-on-open-cities-skyrim)
   - [Work To Be Done As Separate ESPs](#work-to-be-done-as-separate-esps)
     - [Mountain Rework North of Windhelm](#mountain-rework-north-of-windhelm)
@@ -137,6 +138,10 @@ I currently don't know how straightforward such a patch would be since I've neve
 ### AI Overhaul
 
 This mod was mentioned as a potential patch candidate, so I will look at this at some point. Not yet sure whether a patch is easy or difficult or needed at all. I think it will depend on what it does to navmesh if any.
+
+### Bells of Skyrim
+
+Will look into potential conflict resolution with this mod.
 
 ### A Note On Open Cities Skyrim
 
